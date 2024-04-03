@@ -1,0 +1,4723 @@
+[
+    {
+        "Name": "Bhashyam Blooms School",
+        "Category": "Public Schools",
+        "Location": "Patancheru Industrial Area, Patancheru, Hyderabad, Telangana 502319",
+        "Faculty": "Mr. RamaKrishna Chairman / N/A",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Kho-Kho, Table-tennis, Tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Triveni Talent Schools",
+        "Category": "Public Schools",
+        "Location": "Plot No. 495, Above Andhra Bank, Muthangi Cross Road, Sreeram Nagar Colony, Patancheru, Hyderabad, Telangana 502319, India",
+        "Faculty": "",
+        "Sports": "Athletics, Carroms, Chess, Cricket, Tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "SHRI SAI SHIVA HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "G7G8+4WR, Sri Nagar Colony, Shanthi Nagar, Patancheruvu, Telangana 502319, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            15000
+        ],
+        "Since": 1994,
+        "Strength": 0
+    },
+    {
+        "Name": "St.Joseph High school",
+        "Category": "Other",
+        "Location": "7-200/1, Rd Number 3, Anand Nagar Colony, JP Colony, Patancheru, Hyderabad, Patancheruvu, Telangana 502319, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            35000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "International School of Hyderabad",
+        "Category": "Day Schools",
+        "Location": "ICRISAT Main Entrance Gate, Patancheru, Ramachandrapuram, Ramachandrapuram (BHEL Township), Telangana 502324, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "International Baccalaureate, IGCSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            576500
+        ],
+        "Since": 1981,
+        "Strength": 0
+    },
+    {
+        "Name": "Rainbow International School",
+        "Category": "Day Schools",
+        "Location": "Beeramguda (v Raghavendra Colony, RAINBOW INTERNATIONAL SCHOOL, Ameenpur Rd, Raghavendra Colony, Patancheruvu, Ramachandrapuram (BHEL Township), Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2011,
+        "Strength": 752
+    },
+    {
+        "Name": "SAI HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "Patancheru, mandal, Beeramguda Main Rd, Jayalaxmi Nagar, Ushkebhavi, Ramachandrapuram, Ramachandrapuram (BHEL Township), Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            18000
+        ],
+        "Since": 1998,
+        "Strength": 290
+    },
+    {
+        "Name": "MNR School Of Excellence",
+        "Category": "Public Schools",
+        "Location": "Ashok Nagar Main Rd, Ashok Nagar, Ramachandra Puram, Hyderabad, Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "Carroms, Chess, Cricket, Kabaddi, Karate, Kho-Kho",
+        "Amenities": "Transport, Laboratory, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Manthan International School",
+        "Category": "Day Schools",
+        "Location": "Tellapur Village, Ramachandrapuram Mandal, Sangareddy District, Tellapur, Hyderabad, Nalagandla, Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE, International Baccalaureate",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            209000
+        ],
+        "Since": 2013,
+        "Strength": 0
+    },
+    {
+        "Name": "MNR High School",
+        "Category": "Public Schools",
+        "Location": "Ashok Nagar, Ramachandra Puram, Hyderabad, Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "Kabaddi, Karate, Skating, Volleyball",
+        "Amenities": "Transport, Laboratory, Computers Facility, Library",
+        "Board": "CBSE, State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Rainbow International School",
+        "Category": "International Schools",
+        "Location": "Raghavendra Colony - Ameenpur Village Rd, Narendra Nagar Colony, Raghavendra Colony, Ramachandra Puram, Hyderabad, Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "Athletics, Basketball, Handball, Kabaddi, Skating, Taekwondo",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Prachin Global Indian International School",
+        "Category": "International Schools, Boarding Schools",
+        "Location": "Jayalaxmi Nagar, Ushkebhavi, Ramachandra Puram, Hyderabad, Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Billiards, Carroms, Chess, Cricket, Gymnastics, Skating, Soccer, Squash, Table-tennis, Taekwondo, Tennis",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2009,
+        "Strength": 0
+    },
+    {
+        "Name": "Nectar School",
+        "Category": "Other",
+        "Location": "23-88, Ashok Nagar Main Rd, Ashok Nagar, Bharat Heavy Electricals Limited, Ramachandrapuram, Ramachandrapuram (BHEL Township), Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            17000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Blossoms International Play School",
+        "Category": "International Schools, Play Schools",
+        "Location": "No. 24-119, Road No. 4, Kakatiya Nagar, Water Tank, Ramachandra Puram, Hyderabad, Telangana 500032",
+        "Faculty": "",
+        "Sports": "Cycling, Swimming",
+        "Amenities": "Transport, Computers Facility",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            27000,
+            30000
+        ],
+        "Since": 2009,
+        "Strength": 0
+    },
+    {
+        "Name": "EuroKids",
+        "Category": "Play Schools",
+        "Location": "H.No.6-25/27,Mallareddy EnclaveOpp:Life Line School Sai ColonyBeeramguda,Ramchandrapuram, Hyderabad, Telangana 502032",
+        "Faculty": "",
+        "Sports": "Cycling, Yoga",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0,
+            1
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "MNR School Of Excellence",
+        "Category": "Public Schools",
+        "Location": "Ashok Nagar Main Rd, Ashok Nagar, Ramachandra Puram, Hyderabad, Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "Carroms, Chess, Cricket, Kabaddi, Karate, Kho-Kho",
+        "Amenities": "Transport, Laboratory, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Manthan International School",
+        "Category": "Day Schools",
+        "Location": "Tellapur Village, Ramachandrapuram Mandal, Sangareddy District, Tellapur, Hyderabad, Nalagandla, Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE, International Baccalaureate",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            209000
+        ],
+        "Since": 2013,
+        "Strength": 0
+    },
+    {
+        "Name": "Sreenidhi Global School",
+        "Category": "Public Schools",
+        "Location": "25-32/2/7, National Highway 9, Mallikarjuna Nagar, Ramachandra Puram, Hyderabad, Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Karate, Skating, Swimming, Table-tennis, Tennis, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Candiidus International School",
+        "Category": "International Schools",
+        "Location": "Muthangi, Hyderabad, Telangana 502300",
+        "Faculty": "Ms. G Vani Reddy Principal / N/A",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Kabaddi, Kho-Kho, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Jyothi Vidyalaya School",
+        "Category": "Public Schools",
+        "Location": "BHEL, Bharat Heavy Electricals Limited, Hyderabad, Telangana 502032",
+        "Faculty": "",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Karate, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            8000,
+            20000
+        ],
+        "Since": 1979,
+        "Strength": 0
+    },
+    {
+        "Name": "Kidzonia Credence International School",
+        "Category": "Public Schools",
+        "Location": "Plot No-31 & 32, Survey nos: 552 & 553 ODF Colony phase 1 Ameenpur Mandal, Sangareddy, Hyderabad, Telangana 502032",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE, Cambridge IGCSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2022,
+        "Strength": 0
+    },
+    {
+        "Name": "Triveni Talent Schools",
+        "Category": "Public Schools",
+        "Location": "Plot No. 193, Opposite HIG Gate, Kakatiya Nagar, Ashok Nagar, BHEL, Hyderabad, Telangana 500032, India",
+        "Faculty": "",
+        "Sports": "Athletics, Carroms, Chess, Cricket, Tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Rao's High school",
+        "Category": "Public Schools",
+        "Location": "MIG Colony, Lingampally, Bharat Heavy Electricals Limited, Hyderabad, Telangana 502032",
+        "Faculty": "",
+        "Sports": "Athletics, Boxing, Carroms, Chess, Cricket, Gymnastics, Skating, Swimming, Taekwondo",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE, State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "I Play I Learn School",
+        "Category": "Play Schools",
+        "Location": "Plot No:344, Road No:24,HIG Colony, RC Puram , BHEL, Hyderabad, Telangana 500133, India",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            32000,
+            34000
+        ],
+        "Since": 0,
+        "Strength": 40
+    },
+    {
+        "Name": "Kidzonia Credence International School",
+        "Category": "Public Schools",
+        "Location": "Plot No-31 & 32, Survey nos: 552 & 553 ODF Colony phase 1 Ameenpur Mandal, Sangareddy, Hyderabad, Telangana 502032",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE, Cambridge IGCSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2022,
+        "Strength": 0
+    },
+    {
+        "Name": "St.Martin's High School",
+        "Category": "Public Schools",
+        "Location": "Door No. 4-144, Near BHEL R&D, Balanagar, Hyderabad, Telangana 500042",
+        "Faculty": "",
+        "Sports": "Chess, Yoga",
+        "Amenities": "Transport, Laboratory, Library",
+        "Board": "ICSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1982,
+        "Strength": 0
+    },
+    {
+        "Name": "FUSION INTERNATIONAL SCHOOL",
+        "Category": "Day Schools",
+        "Location": "Fusion international school, Ext, Ameenpur Rd, near Bandam Kommu, near Sridevi Theatre Lane, Ameenpur, Chanda Nagar, Hyderabad, Ramachandrapuram (BHEL Township), Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            44500
+        ],
+        "Since": 2009,
+        "Strength": 0
+    },
+    {
+        "Name": "MNR SCHOOL OF EXCELLENCE",
+        "Category": "Day Schools",
+        "Location": "Serilingampally, Reddy Colony, Vemana Colony, Chanda Nagar, Hyderabad, Ramachandrapuram, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            20000
+        ],
+        "Since": 2012,
+        "Strength": 0
+    },
+    {
+        "Name": "Academic Heights Public School",
+        "Category": "Other",
+        "Location": "1-33/3/8/9, Kailash Nagar, Sridevi Theatre Ln, Jawahar Colony, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            48000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Vidya Bharathi High School",
+        "Category": "Other",
+        "Location": "F7VW+8F8, Bharat Heavy Electricals Limited, Hyderabad, Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            20000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Jyothi Vidyalaya School",
+        "Category": "Other",
+        "Location": "BHEL, Bharat Heavy Electricals Limited, Hyderabad, Ramachandrapuram (BHEL Township), Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            11600
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Raos High School",
+        "Category": "Other",
+        "Location": "F7HX+C5G, MIG Colony, MIG Phase I, MIG Colony, Bharat Heavy Electricals Limited, Serilingampalle (M), Telangana 502032, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            26000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Nagarjuna Grammar High school",
+        "Category": "Other",
+        "Location": "Plot No. 5-73/A, chandanagar hyderabad, behind Bharat Petrol Bunk, Tara Nagar, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            35000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Bachpan Play School",
+        "Category": "Play Schools",
+        "Location": "LE 10, Aliens Valley, Manjeera Diamond Towers, Near Aparna Sarowar, Gopanpally (Post), Nallagandla Gachibowli, Lingampally Hyderabad, Telangana- 500019",
+        "Faculty": "",
+        "Sports": "Cycling, Yoga",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Triveni Talent Schools",
+        "Category": "Public Schools",
+        "Location": "Plot No. 236-5-9, Huda Trade Centre, Near Rythu Bazar, Lingampally, Serilingampally, Hyderabad, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "Athletics, Carroms, Chess, Cricket, Tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Vidyanjali High School",
+        "Category": "Public Schools",
+        "Location": "147, Doyens Rd, Doyens Colony, Serilingampalle (M), Telangana 500019",
+        "Faculty": "",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Kabaddi, Karate, Kho-Kho, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            30000,
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "CORNERSTONE SCHOOL",
+        "Category": "Day Schools",
+        "Location": "Survey No.49, Service Rd, Near \u0905\u0928\u094d\u0928\u092a\u0942\u0930\u094d\u0923\u093e \u090f\u0928\u094d\u0915\u094d\u0932\u0947\u0935, Behind Hotel Swagath Paradise, Annapurna Enclave, Chanda Nagar, Serilingampalle (M), Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            140000
+        ],
+        "Since": 2009,
+        "Strength": 0
+    },
+    {
+        "Name": "Ankur's tree house school",
+        "Category": "Other",
+        "Location": "6-90, PJR Stadium Ln, opposite VIDYA NURSING HOME, Santhi Nagar, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            40000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Blossoms International Play School",
+        "Category": "International Schools, Play Schools",
+        "Location": "Sai Raghava Towers, Nallagandla Union Bank Building, Beisde More Super Market, Lingampally,  Hyderabad, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Medical Facility",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            27000,
+            30000
+        ],
+        "Since": 2009,
+        "Strength": 0
+    },
+    {
+        "Name": "Kidzonia Credence International School",
+        "Category": "International Schools",
+        "Location": "169/33 Beside GHMC Park, Near Ratnadeep Lane, HUDA Layout, Nalagandla, Hyderabad",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE, Cambridge IGCSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Ingenium Foundation School, Nallagandla",
+        "Category": "Other Collections",
+        "Location": "Plot 238,Nallagandla Huda, Serilingampalle (M), Nalagandla, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "Other Boards",
+        "Years": [
+            -2,
+            -1,
+            0
+        ],
+        "Fee": [
+            63000
+        ],
+        "Since": 0,
+        "Strength": 500
+    },
+    {
+        "Name": "Glendale International School Cambridge",
+        "Category": "International Schools",
+        "Location": "3-109, Nallagandla, Gopanapalli, Hyderabad, Telangana 500075",
+        "Faculty": "Anjum Babukhan Director / M.Ed B.A",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Karate, Kho-Kho, Skating, Swimming, Table-tennis, Tennis, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "Cambridge IGCSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2003,
+        "Strength": 0
+    },
+    {
+        "Name": "Sadhana infinity International School",
+        "Category": "International Schools",
+        "Location": "Survey No. 386, Nallagandla-Tellapur Road Opp. Aditya Eden Park Apts Nallagandla, Hyderabad, Telangana 500019",
+        "Faculty": "Ms. Prameela Duggineni Principal / .",
+        "Sports": "Basketball, Chess, Cricket, Football, Karate, Skating, Swimming, Tennis",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, Cambridge IGCSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2017,
+        "Strength": 0
+    },
+    {
+        "Name": "Kinder Crest Day Care & Preschool",
+        "Category": "Play Schools",
+        "Location": "Opp Aience, Diamond Heights Rd, Nallagandla, Gopanapalli Thanda, Hyderabad, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Navodaya Vidyalaya Samiti",
+        "Category": "Govt Schools",
+        "Location": "1-1-10/3, S. P. Road, Nallagandla, Gopanapalli, Secunderabad, Telangana 500003, India",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football",
+        "Amenities": "Medical Facility, Laboratory, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1987,
+        "Strength": 0
+    },
+    {
+        "Name": "Sri Chaitanya School",
+        "Category": "Public Schools",
+        "Location": "Opposite Citizen Hospital, Nallagandla HUDA Layout, Nallagandla, HUDA Layout, Nallagandla, Serilingampally, Hyderabad, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "Athletics, Carroms, Chess, Karate, Skating, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "blossoms international school of excellence",
+        "Category": "Public Schools",
+        "Location": "Manohar Nilayam Rd, near GNT Circle, HUDA Layout, Nalagandla, Telangana 500019",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "seeds school uranus campus",
+        "Category": "Play Schools",
+        "Location": "D- Mart, Plot No: 106C, Opp Aparna Grande Nallagandla, Side Lane, HUDA Layout, Serilingampalle (M), Telangana 500019",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "The Indian Public School(TIPS)-Aparna CyberZon",
+        "Category": "Play Schools",
+        "Location": "Aparna Cyberzon -Club House, First Floor,Near Citizen Hospital,Nallagandla",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "Cambridge IGCSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2021,
+        "Strength": 0
+    },
+    {
+        "Name": "Glendale International School Cambridge",
+        "Category": "International Schools",
+        "Location": "3-109, Nallagandla, Gopanapalli, Hyderabad, Telangana 500075",
+        "Faculty": "Anjum Babukhan Director / M.Ed B.A",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Karate, Kho-Kho, Skating, Swimming, Table-tennis, Tennis, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "Cambridge IGCSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2003,
+        "Strength": 0
+    },
+    {
+        "Name": "EuroKids",
+        "Category": "Play Schools",
+        "Location": "D. No: 7-1/SR/26, Sairam Nagar Opp. Navodaya Vidyalaya Samithi Nallagandla, Gopanpally Road, Hyderabad, Telangana 500019",
+        "Faculty": "",
+        "Sports": "Cycling, Yoga",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0,
+            1
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Sadhana infinity International School",
+        "Category": "International Schools",
+        "Location": "Survey No. 386, Nallagandla-Tellapur Road Opp. Aditya Eden Park Apts Nallagandla, Hyderabad, Telangana 500019",
+        "Faculty": "Ms. Prameela Duggineni Principal / .",
+        "Sports": "Basketball, Chess, Cricket, Football, Karate, Skating, Swimming, Tennis",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, Cambridge IGCSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2017,
+        "Strength": 0
+    },
+    {
+        "Name": "Edsmart global",
+        "Category": "Public Schools",
+        "Location": "Nallagandla Plot No. 51 & 52, Defence Colony, Serilingampalle (M), Telangana 500019",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "pavithra international school",
+        "Category": "Public Schools",
+        "Location": "6-104, Adarsh Nagar, Seri Lingampally, Gulmohar Park Colony, Hyderabad, Telangana 500133",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Esperanza Preschool & 24x7 Childcare",
+        "Category": "Play Schools",
+        "Location": "House no. 12-1-13, Aparna Sarovar, Kanchi Gachibowli Village, Seri Lingampally Mandal, Nallagandla, Gopanapalli, Hyderabad, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "The Indian Public School(TIPS)_Nallagandla",
+        "Category": "Play Schools",
+        "Location": "No 9,HUDA Layout,Backside of D-Mart,Nalagandla, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "Cambridge IGCSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2021,
+        "Strength": 0
+    },
+    {
+        "Name": "Epistemo Vikas Leadership School",
+        "Category": "International Schools, Play Schools",
+        "Location": "Plot #B4, Nallagandla Residential Complex, HUDA Layout, Nallagandla, Hyderabad, Telangana 500019",
+        "Faculty": "",
+        "Sports": "Badminton, Basketball, Chess, Cricket, Football, Swimming, Table-tennis, Taekwondo",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, Cambridge IGCSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            125130,
+            178300
+        ],
+        "Since": 2012,
+        "Strength": 0
+    },
+    {
+        "Name": "abode School",
+        "Category": "International Schools",
+        "Location": "HUDA Layout Opp. Aparna Sarovar, near Rock Garden, Nalagandla, Telangana 500019",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "Cambridge IGCSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "EuroKids",
+        "Category": "Play Schools",
+        "Location": "4-89/3/1, Near Kadimi Hospital, LIG, Huda Colony, Chanda Nagar, Hyderabad, Telangana 500050",
+        "Faculty": "",
+        "Sports": "Cycling, Yoga",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0,
+            1
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Gowtham Model School",
+        "Category": "Public Schools",
+        "Location": "Service Road, Annapurna Enclave, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "M Venkatanarayana Founder Chairman / .",
+        "Sports": "Athletics, Carroms, Chess, Cricket, Karate, Volleyball",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "OAKTREE KIDZ International School",
+        "Category": "Play Schools",
+        "Location": "Mmts main road opposite to huda community hall, HUDA Colony, Chanda Nagar, Telangana 500050",
+        "Faculty": "",
+        "Sports": "Athletics, Carroms, Chess, Karate, Yoga",
+        "Amenities": "Transport, Medical Facility, Smart Classrooms, Computers Facility, Library",
+        "Board": "IGCSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2016,
+        "Strength": 0
+    },
+    {
+        "Name": "Bachpan Play School",
+        "Category": "Play Schools",
+        "Location": "1-33, Kailash Nagar Colony, Sridevi Theather Lane, Jawahar Colony, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "Chess, Cycling",
+        "Amenities": "Transport, Medical Facility, Computers Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Blue Bird School",
+        "Category": "Play Schools",
+        "Location": "Plot No: B3 - 38, MMTS Road, Huda Colony, Chanda Nagar Railway Station Path, Papireddy Nagar, Chanda Nagar, 500050",
+        "Faculty": "A. Bala Reddy Chairman / M. Sc. B.Ed",
+        "Sports": "Athletics, Yoga",
+        "Amenities": "Transport, Smart Classrooms, Computers Facility, Library",
+        "Board": "IGCSE",
+        "Years": [
+            -2,
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2009,
+        "Strength": 0
+    },
+    {
+        "Name": "Sanskriti Global Pre-school",
+        "Category": "Play Schools",
+        "Location": "201, Indira Towers, Plot 23, Ameenpur Rd, Chanda Nagar, Hyderabad, Telangana 500050",
+        "Faculty": "",
+        "Sports": "Athletics, Carroms, Tennis",
+        "Amenities": "Transport, Smart Classrooms, Computers Facility",
+        "Board": "IGCSE",
+        "Years": [
+            -2,
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2001,
+        "Strength": 0
+    },
+    {
+        "Name": "Insignis Transnational School",
+        "Category": "Public Schools",
+        "Location": "Plot No.9, Shilpa Enclave, Friends Colony, Bandam Kommu, Chanda Nagar, Hyderabad, Telangana 500050",
+        "Faculty": "Divya Manohar Principal / .",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Karate, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate",
+        "Years": [
+            -2,
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Blossoms International School",
+        "Category": "Other",
+        "Location": "PJR Colony, Sri Ram Nagar Colony, Chanda Nagar, Hyderabad, Telangana 500133, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Gowtham Model School",
+        "Category": "Public Schools",
+        "Location": "Service Road, Annapurna Enclave, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "M Venkatanarayana Founder Chairman / .",
+        "Sports": "Athletics, Carroms, Chess, Cricket, Karate, Volleyball",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "EuroKids",
+        "Category": "Play Schools",
+        "Location": "4-89/3/1, Near Kadimi Hospital, LIG, Huda Colony, Chanda Nagar, Hyderabad, Telangana 500050",
+        "Faculty": "",
+        "Sports": "Cycling, Yoga",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0,
+            1
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Academic Heights Public School",
+        "Category": "Play Schools",
+        "Location": "1-33/3/8/9 Kailashnagar Colony, Sridevi Theater Lane, Jawahar Colony, Chanda Nagar, Hyderabad, Telangana 500133, India",
+        "Faculty": "",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Karate, Tennis, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            50000,
+            60000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Podar Jumbo Kids",
+        "Category": "Play Schools",
+        "Location": "House No: 6-89, Chandanagar - 500050. Hyderabad, Telangana.",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            25000,
+            50000
+        ],
+        "Since": 2014,
+        "Strength": 0
+    },
+    {
+        "Name": "Tree House Play Group",
+        "Category": "Play Schools",
+        "Location": "H.No. 6-90, Opp Vidya Nursing Home, Chandanagar,, HUDA Colony, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            40000,
+            45000
+        ],
+        "Since": 2014,
+        "Strength": 0
+    },
+    {
+        "Name": "Blossoms International Play School",
+        "Category": "International Schools, Play Schools",
+        "Location": "H.No: 6-94/57/2, Plot No.158, HUDA Colony, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Computers Facility",
+        "Board": "CBSE, Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            30000,
+            35000
+        ],
+        "Since": 2010,
+        "Strength": 0
+    },
+    {
+        "Name": "Podar Jumbo Kids",
+        "Category": "Play Schools",
+        "Location": "House No: 6-89, Chandanagar - 500050. Hyderabad, Telangana.",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            25000,
+            50000
+        ],
+        "Since": 2014,
+        "Strength": 0
+    },
+    {
+        "Name": "Tree House Play Group",
+        "Category": "Play Schools",
+        "Location": "H.No. 6-90, Opp Vidya Nursing Home, Chandanagar,, HUDA Colony, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            40000,
+            45000
+        ],
+        "Since": 2014,
+        "Strength": 0
+    },
+    {
+        "Name": "Meru International School",
+        "Category": "International Schools",
+        "Location": "F7C7+C2, Adjacent to My Home Tridasa, Tellapur, Hyderabad, 502032",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, IGCSE, Cambridge IGCSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2022,
+        "Strength": 0
+    },
+    {
+        "Name": "Glendale International School IB-PYP",
+        "Category": "International Schools",
+        "Location": "HIG -120 - 128, Road No: 20, HMDA Layout, Tellapur, Hyderabad, Telangana 502032",
+        "Faculty": "Anjum Babukhan Director / M.Ed B.A",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Karate, Kho-Kho, Skating, Swimming, Table-tennis, Tennis, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2003,
+        "Strength": 0
+    },
+    {
+        "Name": "Manthan International School",
+        "Category": "International Schools",
+        "Location": "Tellapur Village, Ramachandrapuram Mandal, Sangareddy District, Hyderabad 502032",
+        "Faculty": "",
+        "Sports": "Basketball, Football, Handball, Throwball, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, Cambridge IGCSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2014,
+        "Strength": 0
+    },
+    {
+        "Name": "Sadhana Infinity International School",
+        "Category": "International Schools",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Kho-Kho",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, Cambridge IGCSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2010,
+        "Strength": 0
+    },
+    {
+        "Name": "Pavithra International School",
+        "Category": "Other",
+        "Location": "6-104, Adarsh Nagar, Seri Lingampally, Gulmohar Park Colony, Hyderabad, Serilingampalle (M), Telangana 500133, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            45000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "SEEDS (Primary School)",
+        "Category": "Other",
+        "Location": "Plot No: 106C, Opp Aparna Grande Nallagandla, D- Mart, Side Lane, HUDA Layout, Serilingampalle (M), Gopanpalle, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            75000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Vidya Vani High School",
+        "Category": "Other",
+        "Location": "Door No. 12-16/1, Manjeera Road, Huda Colony, HUDA Colony, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            24001
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "GOWTHAM MODEL SCHOOL",
+        "Category": "Other",
+        "Location": "Beside Bsnl Telephone Exchange Office, Dolphin Estate, Chandanagar, Bhel, F8RJ+J3V, MIG Colony, HUDA Colony, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            30000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Raos Techno School",
+        "Category": "Other",
+        "Location": "beside KFC, Janapriya Nagar, Ambedkar Nagar, Hafeezpet, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            60000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Kairos International School",
+        "Category": "Other",
+        "Location": "Survey No 37,Near Journalist colony Wipro junction to, Gopannapally, Sudarshan Nagar Colony Main Rd, Journalists Colony Phase 3, Financial District, Gachibowli, Serilingampalle (M), Hyderabad, Telangana 500032, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "IGCSE, CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            100000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Kairos International School",
+        "Category": "Other",
+        "Location": "Survey No 37,Near Journalist colony Wipro junction to, Gopannapally, Sudarshan Nagar Colony Main Rd, Journalists Colony Phase 3, Financial District, Gachibowli, Serilingampalle (M), Hyderabad, Telangana 500032, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "IGCSE, CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            100000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "The Triveni Talent School",
+        "Category": "Public Schools",
+        "Location": "Sai Sreenivasam Apartment, Plot No. 236-5-9, Huda Trade Centre,, near Rythu Bazar, Lingampally, Serilingampalle (M), Telangana 500019",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2004,
+        "Strength": 0
+    },
+    {
+        "Name": "Birla Open Minds Preschool - Gopanpally",
+        "Category": "Play Schools",
+        "Location": "Club House Block, Manjeera Diamond Towers,Nallagandla, Goppanapally Village,Hyderabad, Telangana - 500046,",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "Montessori",
+        "Years": [
+            -2,
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2014,
+        "Strength": 0
+    },
+    {
+        "Name": "Vista School",
+        "Category": "Public Schools",
+        "Location": "Next To Wipro - Gopanapalli Village, Vattinagula Palli, Lingampalli-khanapur Road, Beyond Gachibowli, Hyderabad",
+        "Faculty": "Ms. Mary Shanti Priya Principal / .",
+        "Sports": "Badminton, Basketball, Cricket, Tennis",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            800000,
+            150000
+        ],
+        "Since": 2011,
+        "Strength": 0
+    },
+    {
+        "Name": "Birla Open Minds Preschool - Nallagandla",
+        "Category": "Play Schools",
+        "Location": "Plot No. 5, Sy. No. 366B, Nallagandla Village,Serilingampally Mandal, Hyderabad - 500050, Telangana",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "Montessori",
+        "Years": [
+            -2,
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2016,
+        "Strength": 0
+    },
+    {
+        "Name": "Globe Totters A Birla Preschool",
+        "Category": "Play Schools",
+        "Location": "Club House Block, Manjeera Diamond Towers, \r\nNallagandla, Goppanapally Village - 500046, \r\nTelangana",
+        "Faculty": "",
+        "Sports": "Cycling, Skating",
+        "Amenities": "Transport, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Candor Shrine I School",
+        "Category": "Day cum Boarding Schools",
+        "Location": "#6-23/3,NH.65,Laxmareddy Palem, Laxma Reddy Palem Colony, Pedda Amberpet, Hyderabad, Telangana 501505, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            40000
+        ],
+        "Since": 2013,
+        "Strength": 1200
+    },
+    {
+        "Name": "Sloka School",
+        "Category": "Day Schools",
+        "Location": "SLOKA SCHOOL, Telangana 500075, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            180000
+        ],
+        "Since": 1997,
+        "Strength": 0
+    },
+    {
+        "Name": "Indus Junior School, Gachibowli",
+        "Category": "Day Schools",
+        "Location": "Plot No. 23-D, Nallagandla, Huda Colony, Serilingampally, Ranga Reddy, HUDA Layout, Hyderabad, Nalagandla, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "Other Boards",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2
+        ],
+        "Fee": [
+            139000
+        ],
+        "Since": 2014,
+        "Strength": 0
+    },
+    {
+        "Name": "AROHAN THE COMPLETE SCHOOL",
+        "Category": "Other",
+        "Location": "2-113/2,3,4 Sainath Nagar Colony, Manjeera Pipeline Rd, Gangaram, Engineers Enclave, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            28000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Geetanjali Olympiad",
+        "Category": "Day Schools",
+        "Location": "G934+MV3, Main Rd, Mahodaya Enclave, Alluri Seetha Ramaraju Nagar, Miyapur, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board, CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            80000
+        ],
+        "Since": 2004,
+        "Strength": 0
+    },
+    {
+        "Name": "Akshara International School",
+        "Category": "International Schools",
+        "Location": "Ganesh Nagar, Kismatpur, Hyderabad, Telangana 500030",
+        "Faculty": "",
+        "Sports": "Basketball, Carroms, Chess, Football, Handball, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            80000,
+            150000
+        ],
+        "Since": 2024,
+        "Strength": 0
+    },
+    {
+        "Name": "Lotus National School",
+        "Category": "Public Schools",
+        "Location": "New Lakshmi Nagar Colony, Miyapur X Road, Hyderabad",
+        "Faculty": "",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Karate",
+        "Amenities": "Transport, Medical Facility, Laboratory, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2004,
+        "Strength": 0
+    },
+    {
+        "Name": "Little Einsteins",
+        "Category": "Play Schools",
+        "Location": "House No 3-419, Plot No 419, LIG, Huda Colony, Mayuri Nagar, Near Heritage Supermarket, Miyapur, Hyderabad, Telangana 500049",
+        "Faculty": "",
+        "Sports": "Carroms",
+        "Amenities": "Transport, Medical Facility",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            30000,
+            40000
+        ],
+        "Since": 2007,
+        "Strength": 0
+    },
+    {
+        "Name": "Fusion International School",
+        "Category": "International Schools",
+        "Location": "Ameenpur , Near Bandam Kommu, near Sri Devi Theatre, BHEL,  Hyderabad, Telangana 502032, India",
+        "Faculty": "Dr. Mrs. T. Padmavathy Principal / M.Sc, M.Ed., Ph.D",
+        "Sports": "Badminton, Basketball, Cricket, Tennis",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            30000,
+            60000
+        ],
+        "Since": 2013,
+        "Strength": 200
+    },
+    {
+        "Name": "Joy Kids",
+        "Category": "Play Schools",
+        "Location": "Pragathi Enclave, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Athletics, Cycling",
+        "Amenities": "Transport",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2008,
+        "Strength": 0
+    },
+    {
+        "Name": "Unicent School",
+        "Category": "Public Schools",
+        "Location": "Janapriya Nagar, Pragathi Enclave, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Carroms, Chess, Karate, Skating, Taekwondo, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Fee": [
+            65000,
+            100000
+        ],
+        "Since": 1996,
+        "Strength": 0
+    },
+    {
+        "Name": "Vikas The Concept School",
+        "Category": "Public Schools, Boarding Schools",
+        "Location": "Bollaram Road, Krishnaja Hills, Nizampet, Krishnaja Hills, Miyapur, Hyderabad, Telangana 500072, India",
+        "Faculty": "Late Sri Koteswara Rao Surapaneni Founder Chairman / .",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Karate, Kho-Kho, Lawn Tennis, Skating, Table-tennis, Taekwondo, Tennis, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            65000,
+            150000
+        ],
+        "Since": 2004,
+        "Strength": 4772
+    },
+    {
+        "Name": "The Indo English High School",
+        "Category": "Public Schools",
+        "Location": "HMT Swarnapuri, IV Venture,\r\nMiyapur, Hyderabad \u00e2\u20ac\u201c 500049",
+        "Faculty": "",
+        "Sports": "Kabaddi, Karate, Skating, Volleyball",
+        "Amenities": "Transport, Laboratory, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Oi Play School",
+        "Category": "Play Schools",
+        "Location": "H.No.4-82, BHEL HIG Phase 2, Ushodaya Enclave, Madinaguda, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Cycling, Swimming",
+        "Amenities": "Transport, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2007,
+        "Strength": 0
+    },
+    {
+        "Name": "Sunshine Preschool & Daycare Chain",
+        "Category": "Play Schools",
+        "Location": "Plot No-147, Pragathi Enclave, Max-I Residency Rd, Neelima Greens Colony, Pragathi Enclave, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            40000
+        ],
+        "Since": 2012,
+        "Strength": 0
+    },
+    {
+        "Name": "Rao's Techno school",
+        "Category": "Public Schools",
+        "Location": "PJR Colony, Deepthisri Nagar, Miyapur, Hyderabad, Telangana 500050",
+        "Faculty": "",
+        "Sports": "Athletics, Boxing, Carroms, Chess, Cricket, Gymnastics, Skating, Swimming, Taekwondo",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE, State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "MATRUSRI DAV PUBLIC SCHOOL",
+        "Category": "Day Schools",
+        "Location": "44/1, Road NO.3 / 4, Mathrusree Nagar, Hafeezpet, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            42000
+        ],
+        "Since": 2010,
+        "Strength": 0
+    },
+    {
+        "Name": "SAADHYA The Global School",
+        "Category": "Other",
+        "Location": "Lingampally, Plot No: 844, Mathrusree Nagar, Hafeezpet, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            36000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Bachpan Play School",
+        "Category": "Play Schools",
+        "Location": "Plot No. 43 44, 138 & 140, Pragathi Enclave, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Cycling, Yoga",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Esperanza Preschool & 24x7 Childcare",
+        "Category": "Play Schools",
+        "Location": "Opp: Talkie Town Multiplex, Behind Sitara Grand, Survey No:63P, Miyapur Junction, Miyapur, Hyderabad, Telangana 500049",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "I Play I Learn School",
+        "Category": "Play Schools",
+        "Location": "Education Academy - Besides Sairanga theatre, Madhavanagar colony Miyapur Hyderabad, Hyderabad, Telangana 500059",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            32000,
+            34000
+        ],
+        "Since": 0,
+        "Strength": 40
+    },
+    {
+        "Name": "Oi Play School",
+        "Category": "Play Schools",
+        "Location": "H.No.4-82, BHEL HIG Phase 2, Ushodaya Enclave, Madinaguda, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Cycling, Swimming",
+        "Amenities": "Transport, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2007,
+        "Strength": 0
+    },
+    {
+        "Name": "Sunshine Preschool & Daycare Chain",
+        "Category": "Play Schools",
+        "Location": "Plot No-147, Pragathi Enclave, Max-I Residency Rd, Neelima Greens Colony, Pragathi Enclave, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            40000
+        ],
+        "Since": 2012,
+        "Strength": 0
+    },
+    {
+        "Name": "Rao's Techno school",
+        "Category": "Public Schools",
+        "Location": "PJR Colony, Deepthisri Nagar, Miyapur, Hyderabad, Telangana 500050",
+        "Faculty": "",
+        "Sports": "Athletics, Boxing, Carroms, Chess, Cricket, Gymnastics, Skating, Swimming, Taekwondo",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE, State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Triveni Talent Schools Kids",
+        "Category": "Public Schools",
+        "Location": "Plot No 183, NH 65, Beside Mythri Nagar Arch, Madinaguda, Miyapur,  Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Athletics, Carroms, Chess, Cricket, Tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "St. Rita High school",
+        "Category": "Public Schools",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Delhi Public School",
+        "Category": "Public Schools",
+        "Location": "Survey No 816, Bowrampet Village, Bachupally, Dundigal Mandal, Medchal District, Hyderabad, Telangana 500043",
+        "Faculty": "Mrs. Gowri Sarkar Principal / Secretary / .",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Gymnastics, Karate, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            100000,
+            200000
+        ],
+        "Since": 2015,
+        "Strength": 3700
+    },
+    {
+        "Name": "MATRUSRI DAV PUBLIC SCHOOL",
+        "Category": "Day Schools",
+        "Location": "44/1, Road NO.3 / 4, Mathrusree Nagar, Hafeezpet, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            42000
+        ],
+        "Since": 2010,
+        "Strength": 0
+    },
+    {
+        "Name": "SAADHYA The Global School",
+        "Category": "Other",
+        "Location": "Lingampally, Plot No: 844, Mathrusree Nagar, Hafeezpet, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            36000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "SARADA VIDYA MANDIR",
+        "Category": "Day Schools",
+        "Location": "X, 1-112/3/9/a, Miyapur Rd, Sri Aurobindo Colony, Miyapur, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            30000
+        ],
+        "Since": 1987,
+        "Strength": 700
+    },
+    {
+        "Name": "Triveni Talent Schools Kids",
+        "Category": "Public Schools",
+        "Location": "Plot No 183, NH 65, Beside Mythri Nagar Arch, Madinaguda, Miyapur,  Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Athletics, Carroms, Chess, Cricket, Tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "St. Rita High school",
+        "Category": "Public Schools",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Delhi Public School",
+        "Category": "Public Schools",
+        "Location": "Survey No 816, Bowrampet Village, Bachupally, Dundigal Mandal, Medchal District, Hyderabad, Telangana 500043",
+        "Faculty": "Mrs. Gowri Sarkar Principal / Secretary / .",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Gymnastics, Karate, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            100000,
+            200000
+        ],
+        "Since": 2015,
+        "Strength": 3700
+    },
+    {
+        "Name": "INDO ENGLISH HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "G88W+JFX, HMT Swarnapuri Colony Main Rd, HMT Swarnapuri Colony, Swarnapuri Colony II, Miyapur, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            27950
+        ],
+        "Since": 2014,
+        "Strength": 0
+    },
+    {
+        "Name": "sanford the global school",
+        "Category": "Day Schools",
+        "Location": "Beside HDFC Bank's Lane,, HUDA Mayuri Nagar, Miyapur, Dynamics Colony, Mayuri Nagar, Hyderabad, Miyapur, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE, CBSE, CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Fee": [
+            300000
+        ],
+        "Since": 2010,
+        "Strength": 2000
+    },
+    {
+        "Name": "MATRUSRI DAV PUBLIC SCHOOL",
+        "Category": "Day Schools",
+        "Location": "44/1, Road NO.3 / 4, Mathrusree Nagar, Hafeezpet, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            42000
+        ],
+        "Since": 2010,
+        "Strength": 0
+    },
+    {
+        "Name": "SAADHYA The Global School",
+        "Category": "Other",
+        "Location": "Lingampally, Plot No: 844, Mathrusree Nagar, Hafeezpet, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            36000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "SARADA VIDYA MANDIR",
+        "Category": "Day Schools",
+        "Location": "X, 1-112/3/9/a, Miyapur Rd, Sri Aurobindo Colony, Miyapur, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            30000
+        ],
+        "Since": 1987,
+        "Strength": 700
+    },
+    {
+        "Name": "The LUMINOUS ACADEMY Montessori Preschool",
+        "Category": "International Schools, Play Schools",
+        "Location": "238/B, VANASRI NILAYAM, The Luminous Montessori preschool, HUDA Colony, Mayuri nagar, Miyapur, Telangana, Hyderabad",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "Montessori",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2023,
+        "Strength": 0
+    },
+    {
+        "Name": "Sree N.V.S Innovative School",
+        "Category": "Day Schools",
+        "Location": "2-1-11/C, Gangaram, Engineers Enclave, Chanda Nagar, Hyderabad, Telangana",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            39000
+        ],
+        "Since": 2001,
+        "Strength": 1200
+    },
+    {
+        "Name": "Vidyanjali High school",
+        "Category": "Day Schools",
+        "Location": "147, Doyens Rd, Doyens Colony, Serilingampalle (M), Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            35000
+        ],
+        "Since": 1993,
+        "Strength": 0
+    },
+    {
+        "Name": "Sujana Vidyanikethan",
+        "Category": "Other",
+        "Location": "Plot no.14, Huda Trade Centre, Near Rangaprasad residency, Besides More super market, Serilingampally, Hyderabad-500019, Rail Vihar, Serilingampalle (M), Telangana 500133, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            23000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Army Public School",
+        "Category": "Public Schools",
+        "Location": "Cavalry Barracks Defence Officer's Colony, Bolarum,  Secunderabad, Hyderabad, Telangana 500087, India",
+        "Faculty": "Mrs. Smitha Govind Principal",
+        "Sports": "Badminton, Basketball, Football, Throwball, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            8000,
+            11000
+        ],
+        "Since": 2002,
+        "Strength": 3000
+    },
+    {
+        "Name": "St. Michael's School",
+        "Category": "Public Schools",
+        "Location": "5-564/22, Ambedkar Nagar, Old Alwal, Chetana Housing Colony, Bollaram, Secunderabad, Telangana 500010, India",
+        "Faculty": "Mrs. T. Kasturi Reddy Principal",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Skating, Swimming, Table-tennis",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1996,
+        "Strength": 0
+    },
+    {
+        "Name": "Kendriya Vidyalaya",
+        "Category": "Public Schools",
+        "Location": "Allenby Lines, Jai Jawahar Nagar, Bolarum, Secunderabad, Telangana 500087, India",
+        "Faculty": "Chitteti. Sreenivasulu Principal / MA; M Ed",
+        "Sports": "Cricket, Football, Handball, Kabaddi, Kho-Kho, Table-tennis, Throwball, Volleyball",
+        "Amenities": "Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            6500,
+            10000
+        ],
+        "Since": 1993,
+        "Strength": 0
+    },
+    {
+        "Name": "Kotwal High School",
+        "Category": "Public Schools",
+        "Location": "Baban Guda, Ranga Reddy, Rizala Bazar, Baban Guda, Bolarum, Secunderabad, Telangana 500010, India",
+        "Faculty": "",
+        "Sports": "Athletics",
+        "Amenities": "Transport, Laboratory, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            34000,
+            38000
+        ],
+        "Since": 2011,
+        "Strength": 0
+    },
+    {
+        "Name": "Gowtham Model School",
+        "Category": "Public Schools",
+        "Location": "9-39/2/5, Surya Colony, Prem Nagar Colony, Bolarum, Secunderabad, Telangana 500010, India",
+        "Faculty": "",
+        "Sports": "Athletics, Carroms, Chess, Cricket, Karate, Volleyball",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Joy International School",
+        "Category": "Day Schools",
+        "Location": "plot No.41 and 44, Anrich, Industrial Estate, Industrial Development Area Bollaram, Mallampet, Jinnaram, Hyderabad, Telangana 502325, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE, CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Fee": [
+            30000
+        ],
+        "Since": 2008,
+        "Strength": 400
+    },
+    {
+        "Name": "Nasr School for boys",
+        "Category": "Public Schools",
+        "Location": "1-72-4 / 4, Survey No. 47, Near Serilingampally Cross Road, Serilingampally, Gachi Bowli, Hyderabad",
+        "Faculty": "Mr. Mir Hafeezuddin Ahmed Principal",
+        "Sports": "Archery, Basketball, Cricket, Football, Hockey, Karate, Table-tennis, Tennis",
+        "Amenities": "Transport",
+        "Board": "ICSE",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1998,
+        "Strength": 0
+    },
+    {
+        "Name": "Sancta Maria International School",
+        "Category": "International Schools",
+        "Location": "Survey No. 106, 107, Dubey Colony Rd, Serilingampally, Hyderabad, Telangana 500019",
+        "Faculty": "MR. B. AROGYA REDDY President & Chairman / N/A",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Kho-Kho, Lawn Tennis, Soccer, Table-tennis, Tennis, Throwball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "Cambridge IGCSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            130000,
+            400000
+        ],
+        "Since": 1982,
+        "Strength": 0
+    },
+    {
+        "Name": "Indus International Junior School",
+        "Category": "International Schools",
+        "Location": "Plot No.23D, Nallagandla, Huda Colony, Serillingampally, Ranga Reddy District 500019",
+        "Faculty": "Ms. Nuwaira Pasha Principal / Diploma in Early Childhood and Pre-school",
+        "Sports": "Badminton, Basketball, Carroms, Cricket, Football, Hockey, Horseback Riding, Kabaddi, Kho-Kho, Swimming, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "Fee": [
+            22000,
+            230000
+        ],
+        "Since": 2008,
+        "Strength": 0
+    },
+    {
+        "Name": "Seeds School, Uranus campus",
+        "Category": "Public Schools",
+        "Location": "H.no:7-14/1, Old Mumbai Hwy, Bapu Nagar, Serilingampally, Hyderabad, Telangana, Bapu Nagar, Serilingampally, Hyderabad, Telangana 500019, India",
+        "Faculty": "B.Preethi Reddy Center Head",
+        "Sports": "Athletics, Basketball, Cricket, Cycling, Football, Karate",
+        "Amenities": "Transport, Medical Facility, Smart Classrooms",
+        "Board": "CBSE, Other Boards",
+        "Years": [
+            -1,
+            0,
+            1,
+            2
+        ],
+        "Fee": [
+            55000,
+            70000
+        ],
+        "Since": 2016,
+        "Strength": 0
+    },
+    {
+        "Name": "CornerStone School",
+        "Category": "Public Schools",
+        "Location": "Survey No.49,Near Annapurna Enclave Behind Hotel Swagath, Chandanagar Serilingampally,Rangareddy District, Hyderabad, Telangana 500050",
+        "Faculty": "Mrs. SHILPA SETHI Principal / .",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Tennis, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            85000,
+            115000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Esperanza Preschool & 24x7 Childcare",
+        "Category": "Play Schools",
+        "Location": "Plot No. 106/107, 2nd Building, 2nd Gate, Doyens Township, Serilingampally, Hyderabad, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Pavithra International School",
+        "Category": "International Schools",
+        "Location": "Near Anjali Garden, Puppalaguda Main Road, Gulmohar Park Colony, Serilingampally, Hyderabad, Telangana 500019, India",
+        "Faculty": "Y.Venkatesh Chairman / .",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Gymnastics, Table-tennis",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            40000,
+            150000
+        ],
+        "Since": 2012,
+        "Strength": 0
+    },
+    {
+        "Name": "Seeds School, Uranus campus",
+        "Category": "Public Schools",
+        "Location": "H.no:7-14/1, Old Mumbai Hwy, Bapu Nagar, Serilingampally, Hyderabad, Telangana, Bapu Nagar, Serilingampally, Hyderabad, Telangana 500019, India",
+        "Faculty": "B.Preethi Reddy Center Head",
+        "Sports": "Athletics, Basketball, Cricket, Cycling, Football, Karate",
+        "Amenities": "Transport, Medical Facility, Smart Classrooms",
+        "Board": "CBSE, Other Boards",
+        "Years": [
+            -1,
+            0,
+            1,
+            2
+        ],
+        "Fee": [
+            55000,
+            70000
+        ],
+        "Since": 2016,
+        "Strength": 0
+    },
+    {
+        "Name": "CornerStone School",
+        "Category": "Public Schools",
+        "Location": "Survey No.49,Near Annapurna Enclave Behind Hotel Swagath, Chandanagar Serilingampally,Rangareddy District, Hyderabad, Telangana 500050",
+        "Faculty": "Mrs. SHILPA SETHI Principal / .",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Tennis, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            85000,
+            115000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Esperanza Preschool & 24x7 Childcare",
+        "Category": "Play Schools",
+        "Location": "Plot No. 106/107, 2nd Building, 2nd Gate, Doyens Township, Serilingampally, Hyderabad, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Shemrock Lalita",
+        "Category": "Play Schools",
+        "Location": "Plot no; 8 & 9, Gulmohar Park Colony, Serilingampally, Hyderabad, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Sri Chaitanya School",
+        "Category": "Public Schools",
+        "Location": "Plot No:20 & 21, HUDA Layout, Beside Nallagandla Fly Over, Serilingampally, Hyderabad, Telangana 500019, India",
+        "Faculty": "",
+        "Sports": "Carroms, Chess, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Ingenium world school",
+        "Category": "Public Schools",
+        "Location": "Plot Number 60,Road Number 6A Sudarshan Nagar Colony,Serilingampally, beside SMR VINAY ICONIA, Hyderabad, Telangana 500084",
+        "Faculty": "Mr. Sudhanshu Kumar Chairman and Managing Director / .",
+        "Sports": "Athletics, Carroms, Chess, Yoga",
+        "Amenities": "Transport, Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "GAUTAMI VIDYA KSHETRA",
+        "Category": "Day Schools",
+        "Location": "Gautami Valley, New, F8XW+M8G, Miyapur Police Station Rd, Krushi Nagar, Shanti Nagar Colony, Prasanth Nagar, Hyderabad, Miyapur, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            41000
+        ],
+        "Since": 2001,
+        "Strength": 0
+    },
+    {
+        "Name": "Joy Kids Pre School and Day Care",
+        "Category": "Play Schools",
+        "Location": "House No. 8, V.R.Residency, Madeenaguda, Manjeera Pipeline Rd, Mvtri Nagar Phase 3, Madinaguda, Hafeezpet, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Cycling, Swimming",
+        "Amenities": "Transport",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            9000,
+            15000
+        ],
+        "Since": 2008,
+        "Strength": 0
+    },
+    {
+        "Name": "Vignan Global Gen School",
+        "Category": "Public Schools",
+        "Location": "HIG phase-II, Ushodaya Enclave, Madinaguda, Mvtri Nagar Phase 3, Madinaguda, Hafeezpet, Hyderabad, Telangana 500050, India",
+        "Faculty": "Mr. Dr. L. Rathaiah Founder, Chairman / PG",
+        "Sports": "Carroms, Chess, Cricket, Karate, Tennikoit, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            50000,
+            70000
+        ],
+        "Since": 2003,
+        "Strength": 0
+    },
+    {
+        "Name": "Blossoms International Play School",
+        "Category": "Play Schools",
+        "Location": "Manjeera Pipeline Rd, Ramakrishna Nagar, Madinaguda, Hafeezpet, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "Cycling",
+        "Amenities": "Transport, Computers Facility",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            27000,
+            30000
+        ],
+        "Since": 2012,
+        "Strength": 0
+    },
+    {
+        "Name": "Sreenidhi Global School",
+        "Category": "Public Schools",
+        "Location": "5-295, Deepthi Srinagar, Madinaguda, Hyderabad, Telangana 500049",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Karate, Skating, Swimming, Table-tennis, Tennis, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Claps Wikids Preschool",
+        "Category": "Play Schools",
+        "Location": "1-15/3/A, Ramakrishna Nagar, Madinaguda, Hafeezpet, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2005,
+        "Strength": 0
+    },
+    {
+        "Name": "Meru International School",
+        "Category": "International Schools",
+        "Location": "Sy. No. 97(P) & 98, adjacent to My Home Jewel, Madinaguda, Chanda Nagar, Hyderabad, Telangana 500049, India",
+        "Faculty": "Ms. MEGHANA RAO JUPALLY DIRECTOR, MERU INTERNATIONAL SCHOOL / N/A",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Cricket, Football, Gymnastics, Kabaddi, Karate, Table-tennis, Tennis, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, Cambridge IGCSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            2100000,
+            2800000
+        ],
+        "Since": 2018,
+        "Strength": 0
+    },
+    {
+        "Name": "Gowtham Model School",
+        "Category": "Public Schools",
+        "Location": "Plot No 5-132, Survey Number 2, Mythri Nagar Phase ii, Madinaguda, Hafeezpet, Hyderabad, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "Athletics, Carroms, Chess, Cricket, Karate, Volleyball",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Sesame Street Preschool",
+        "Category": "Play Schools",
+        "Location": "House No:1-115-86-A, Imperial Heights, Manjeera Pipeline Rd, Madinaguda, Hafeezpet, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Cycling, Yoga",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Sreenidhi Global School",
+        "Category": "Public Schools",
+        "Location": "5-295, Deepthi Srinagar, Madinaguda, Hyderabad, Telangana 500049",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Karate, Skating, Swimming, Table-tennis, Tennis, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "State Board",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Cambridge Montessori Pre School",
+        "Category": "Play Schools",
+        "Location": "5-38, Deepthi Srinagar Colony, Dharmapuri Temple Road, Near, Ushodaya Signature, PJR Colony, Madinaguda, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "Athletics, Cycling",
+        "Amenities": "Transport, Medical Facility, Library",
+        "Board": "Other Boards",
+        "Years": [
+            -1,
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "MERU SCHOOL",
+        "Category": "Day Schools",
+        "Location": "Sy. No. 97(P) & 98, adjacent to MY HOME JEWEL, Chanda Nagar, Madeenaguda, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE, IGCSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            178200
+        ],
+        "Since": 2018,
+        "Strength": 0
+    },
+    {
+        "Name": "St. Anns High School",
+        "Category": "Other",
+        "Location": "F8WW+J23, Viswaswara Nagar Colony, Shanti Nagar Colony, Tiwari Nagar, Madeenaguda, Miyapur, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "CANARY THE SCHOOL",
+        "Category": "Other",
+        "Location": "1-110/3/G, Madinaguda, Landmark:, beside MLA Camp office, Tiwari Nagar, Miyapur, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "International Baccalaureate, CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            117498
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Janapriya Schools",
+        "Category": "Other",
+        "Location": "135, Janapriya Nagar, Hafeezpet, Hyderabad, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            35000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Triveni High school",
+        "Category": "Other",
+        "Location": "F8VW+FXW, Venkateswara Temple Rd, Mythri Nagar, Hafeezpet, Madeenaguda, Telangana 500050, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            30000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Sentia The Global School",
+        "Category": "Day Schools",
+        "Location": "Bus Depot, Rd Number 2, beside B K Enclave, BK Enclave, Miyapur, Telangana 500074, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Fee": [
+            85000
+        ],
+        "Since": 2008,
+        "Strength": 2033
+    },
+    {
+        "Name": "Vikas The Concept School",
+        "Category": "Day Schools",
+        "Location": "Miyapur, SAi Krishnaja Hills, Bollaram Rd, Krishnaja Hills, Bachupally, Hyderabad, Miyapur, Telangana 500090, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            65000
+        ],
+        "Since": 2004,
+        "Strength": 0
+    },
+    {
+        "Name": "Academic Heights Public School",
+        "Category": "Other",
+        "Location": "Plot No. 43 & 44, near RV AVANEENDRA, Pallava Block-III, Pragathi Enclave, Miyapur, Hyderabad, Miyapur, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            40000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "St. Rita High School",
+        "Category": "Other",
+        "Location": "Hanuman Temple Rd, Widia Colony, Miyapur, Telangana 500049, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            28000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "KENEDY HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "IDA Bollaram X Road, MiyapurMedchal ,Road, Survey No. 499/A, Kennedy School Rd, Bachupally, Hyderabad, Telangana 500090, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE, State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Fee": [
+            15000
+        ],
+        "Since": 2004,
+        "Strength": 0
+    },
+    {
+        "Name": "A&A KIDZ MONTESSORY SCHOOL",
+        "Category": "Other",
+        "Location": "1-99-66/51, Rd, Lakshmipuram Colony, Brindavan Colony, Kapra, Secunderabad, Telangana 500062, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "Other Boards",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            27000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "MUDRA CONCEPT SCHOOL",
+        "Category": "Day Schools",
+        "Location": "House No 3- 20,Mallikarjuna Nagar, Uppal Depot,, Boduppal Road, Balaji Residency, Mallika Arjun Nagar, Boduppal, Hyderabad, Telangana 500092, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board, CBSE",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            18000
+        ],
+        "Since": 2010,
+        "Strength": 700
+    },
+    {
+        "Name": "Boopathy High School",
+        "Category": "Other",
+        "Location": "CH5C+8PW, Ayyappa Temple Rd, Swaroop Nagar, Srinivasa Colony, Boduppal, Hyderabad, Telangana 500039, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            16000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "JOSHIS KINDERGARDEN SCHOOL",
+        "Category": "Other",
+        "Location": "CH56+X53, SBH Colony Main Rd, Annapurna Nagar, Bank Colony, SBH Colony, Prashanth Nagar, Uppal, Hyderabad, Telangana 500039, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            11500
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "HANSEL SCHOOL",
+        "Category": "Other",
+        "Location": "Arora Colony, 15, Rd Number 3, Green Valley, Banjara Hills, Hyderabad, Telangana 500034, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE, State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            35000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "MADARAT INTERNATIONAL SCHOOL",
+        "Category": "Day Schools",
+        "Location": "10-3-522/165/2RT, Vijaynagar Colony, Vijaya Nagar Colony, Hyderabad, Telangana 500057, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            16000
+        ],
+        "Since": 2007,
+        "Strength": 1100
+    },
+    {
+        "Name": "KARTIKEYA HIGH SCHOOL",
+        "Category": "Other",
+        "Location": "Plot no: 509, #5-6, 193/1, DPS Rd, B.N Reddy Nagar, Hyderabad, Telangana 500070, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            15000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "KRISHNAVENI MODEL SCHOOL",
+        "Category": "Other",
+        "Location": "H, No. 3-11-155, 1, Siris Rd, above bank of India, Sri Shankar Colony, RTC Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            25000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "ST Marium High School",
+        "Category": "Day Schools",
+        "Location": "Dabeerpura Flyover, Dabeerpura North, Dabeerpura, Hyderabad, Telangana 500024, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            4800
+        ],
+        "Since": 2000,
+        "Strength": 0
+    },
+    {
+        "Name": "Mt. Helicon High School",
+        "Category": "Day Schools",
+        "Location": "CFC4+P59, Shankar Rd, Sangeet Nagar, Somajiguda, Hyderabad, Telangana 500482, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            13200
+        ],
+        "Since": 1978,
+        "Strength": 0
+    },
+    {
+        "Name": "JOSHIS KINDERGARDEN SCHOOL",
+        "Category": "Other",
+        "Location": "CH56+X53, SBH Colony Main Rd, Annapurna Nagar, Bank Colony, SBH Colony, Prashanth Nagar, Uppal, Hyderabad, Telangana 500039, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            11500
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "HANSEL SCHOOL",
+        "Category": "Other",
+        "Location": "Arora Colony, 15, Rd Number 3, Green Valley, Banjara Hills, Hyderabad, Telangana 500034, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE, State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            35000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "MADARAT INTERNATIONAL SCHOOL",
+        "Category": "Day Schools",
+        "Location": "10-3-522/165/2RT, Vijaynagar Colony, Vijaya Nagar Colony, Hyderabad, Telangana 500057, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            16000
+        ],
+        "Since": 2007,
+        "Strength": 1100
+    },
+    {
+        "Name": "NAVYA JYOTHI MODEL HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "501505, Boggula Darshan Reddy Nagar, Hayathnagar_Khalsa, Hyderabad, Telangana 501505, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            9000
+        ],
+        "Since": 1992,
+        "Strength": 500
+    },
+    {
+        "Name": "ANANDA JYOTHI HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "Srinivasa Puram, Ramalayam Ln, Ramanthapur, Chenna Reddy Nagar, Amberpet, Hyderabad, Telangana 500013, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            13000
+        ],
+        "Since": 1982,
+        "Strength": 550
+    },
+    {
+        "Name": "KRISHNAVANI TALENT SCHOOL",
+        "Category": "Other",
+        "Location": "9H28+3J8, Road No. 3, Sailajapuri Colony, Sahara Estate, Auto Nagar, Mansoorabad, Hyderabad, Telangana 500068, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            25000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "KARTIKEYA HIGH SCHOOL",
+        "Category": "Other",
+        "Location": "Plot no: 509, #5-6, 193/1, DPS Rd, B.N Reddy Nagar, Hyderabad, Telangana 500070, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            15000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "KRISHNAVENI MODEL SCHOOL",
+        "Category": "Other",
+        "Location": "H, No. 3-11-155, 1, Siris Rd, above bank of India, Sri Shankar Colony, RTC Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            25000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "LOTUS LAP PUBLIC SCHOOL",
+        "Category": "Day Schools",
+        "Location": "Plot No.93 & 109, HIG, Phase IV Colony, TV Colony, Vanasthalipuram, Hyderabad, Chintalkunta, Telangana 500070, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            35000
+        ],
+        "Since": 2003,
+        "Strength": 400
+    },
+    {
+        "Name": "LOTUS LAP HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "Plot No.93 & 109, HIG, Phase IV Colony, TV Colony, Vanasthalipuram, Hyderabad, Chintalkunta, Telangana 500070, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            34000
+        ],
+        "Since": 1999,
+        "Strength": 500
+    },
+    {
+        "Name": "Model Mission High School",
+        "Category": "Day Schools",
+        "Location": "Plot No. 14-22, Opppsite Lothkunta Bus Stop, Lothkunta, Laxmi Nagar, Alwal, Secunderabad, Telangana 500015, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            30000
+        ],
+        "Since": 1988,
+        "Strength": 2200
+    },
+    {
+        "Name": "KARTIKEYA HIGH SCHOOL",
+        "Category": "Other",
+        "Location": "Plot no: 509, #5-6, 193/1, DPS Rd, B.N Reddy Nagar, Hyderabad, Telangana 500070, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            15000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "KRISHNAVENI MODEL SCHOOL",
+        "Category": "Other",
+        "Location": "H, No. 3-11-155, 1, Siris Rd, above bank of India, Sri Shankar Colony, RTC Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            25000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "LOTUS LAP PUBLIC SCHOOL",
+        "Category": "Day Schools",
+        "Location": "Plot No.93 & 109, HIG, Phase IV Colony, TV Colony, Vanasthalipuram, Hyderabad, Chintalkunta, Telangana 500070, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            35000
+        ],
+        "Since": 2003,
+        "Strength": 400
+    },
+    {
+        "Name": "LOTUS LAP HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "Plot No.93 & 109, HIG, Phase IV Colony, TV Colony, Vanasthalipuram, Hyderabad, Chintalkunta, Telangana 500070, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            34000
+        ],
+        "Since": 1999,
+        "Strength": 500
+    },
+    {
+        "Name": "MAA SCHOOL",
+        "Category": "Day Schools",
+        "Location": "APIIC Colony, Shapur Nagar, Chinthal, Jeedimetla, Hyderabad, Telangana 500055, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            25000
+        ],
+        "Since": 2002,
+        "Strength": 0
+    }
+]
