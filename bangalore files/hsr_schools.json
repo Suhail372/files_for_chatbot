@@ -1,0 +1,1281 @@
+[
+    {
+        "Name": "Vibgyor High School",
+        "Category": "Public Schools",
+        "Location": "24th Main Road, Near, Hamilton Bailey Hospital, Sector 2, HSR Layout, Bengaluru, Karnataka 560102",
+        "Faculty": "Rustom Kerawalla Founder Chairman VIBGYOR Group of Schools / N/A",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Handball, Kabaddi, Kho-Kho, Lawn Tennis, Skating, Swimming, Table-tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2004,
+        "Strength": 807
+    },
+    {
+        "Name": "Sri Chaitanya School HRS",
+        "Category": "Public Schools",
+        "Location": "Plot No: 55/219th Main, 27th Cross, HSR Layout 2nd Sector,  Opposite Nagarjuna Green Ridge Apartments,  BENGALURU,  Karnataka",
+        "Faculty": "Mrs. A.Padmaja Principal / .",
+        "Sports": "Archery, Athletics, Badminton, Basketball, Boxing, Chess, Checkers, Cricket, Cycling, Football, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1986,
+        "Strength": 0
+    },
+    {
+        "Name": "Freedom International School",
+        "Category": "International Schools",
+        "Location": "C A # 33, Sector IV, HSR Layout , Bengaluru, Karnataka",
+        "Faculty": "",
+        "Sports": "Archery, Athletics, Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Kho-Kho, Table-tennis, Throwball, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2006,
+        "Strength": 0
+    },
+    {
+        "Name": "Kids Castle Preschool",
+        "Category": "Play Schools",
+        "Location": "4th A Cross Rd, HRBR Layout 3rd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+        "Faculty": "Mrs. Shweta Aneja Founder Director / B.Ed, B.Com, B.SC.",
+        "Sports": "Yoga",
+        "Amenities": "Transport, Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2000,
+        "Strength": 50
+    },
+    {
+        "Name": "Samsidh Group of Schools",
+        "Category": "Special Education Schools",
+        "Location": "SAMSIDH MLZS, North BANGALORE No. 9, 1st Main, Ramanna Garden, Ramchandrapura,",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "Nursery - Nursery",
+        "Years": [
+            -2
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2009,
+        "Strength": 0
+    },
+    {
+        "Name": "Kids Paradise",
+        "Category": "Play Schools, Other Collections",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2001,
+        "Strength": 0
+    },
+    {
+        "Name": "National Public School HRS",
+        "Category": "Public Schools",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Billiards, Chess, Cricket, Football, Gymnastics, Lawn Tennis, Skating, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2008,
+        "Strength": 0
+    },
+    {
+        "Name": "Greenhouse International",
+        "Category": "Other",
+        "Location": "1103, 18th cross,9th main, Sector 7 HSR layout, Bengaluru, Karnataka",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Little Millennium",
+        "Category": "Play Schools",
+        "Location": "#79,16th cross , 14th main, Sector -4, H.S.R. Layout, Bengaluru, Karnataka",
+        "Faculty": "Mr. Raman Bajaj Founder / MBA",
+        "Sports": "Yoga",
+        "Amenities": "Transport",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2008,
+        "Strength": 80
+    },
+    {
+        "Name": "Oi Playschool",
+        "Category": "Play Schools",
+        "Location": "1496, 19th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+        "Faculty": "Naga Prasad Tummala Chairman / N/A",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2010,
+        "Strength": 0
+    },
+    {
+        "Name": "The Tree House",
+        "Category": "Play Schools",
+        "Location": "817, 23rd A Cross Rd, 2nd Sector, Garden Layout, Sector 2, HSR Layout, Bengaluru, Karnataka 560102",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "MS Dhoni Global School, HSR",
+        "Category": "Other",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Billiards, Boxing, Cricket, Cycling, Football, Gymnastics, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Cambridge Public School",
+        "Category": "Public Schools",
+        "Location": "Garden Club, C.A. 13, 19th Main, 25th Cross Road, HSR Extension, Sector 2, HSR Layout, Bengaluru, Karnataka 560102",
+        "Faculty": "",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Karate, Lawn Tennis, Swimming, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1999,
+        "Strength": 100
+    },
+    {
+        "Name": "Ravindra Bharathi Global School",
+        "Category": "Other Collections",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2012,
+        "Strength": 0
+    },
+    {
+        "Name": "Narayana Olympiad School, HSR",
+        "Category": "Other",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Archery, Athletics, Badminton, Basketball, Billiards, Boxing, Football, Lawn Tennis, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Floretz Academy",
+        "Category": "Play Schools, Other Collections",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2005,
+        "Strength": 0
+    },
+    {
+        "Name": "Gnan Srishti School Of Excellence",
+        "Category": "International Schools",
+        "Location": "19th Main, 17th Cross Road, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+        "Faculty": "",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Kho-Kho, Swimming, Table-tennis, Tennis, Throwball, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Vivero International Preschool",
+        "Category": "Other",
+        "Location": "Municipal No: 85, opposite BDA Complex, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+        "Faculty": "Arun Arora Chairman, Edvance Pre-Schools / N/A",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Ravindra Bharathi Global School, HSR",
+        "Category": "Other",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Billiards, Football, Gymnastics, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Your Kids R Our Kids",
+        "Category": "Play Schools",
+        "Location": "#190/A , 22nd Cross, 16th Main Rd, Sector 3, HSR Layout, Bengaluru, Karnataka 560029",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 60
+    },
+    {
+        "Name": "Kidzee",
+        "Category": "Play Schools",
+        "Location": "# 1490, 20th Main Road Near Kubera TVS Motors, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+        "Faculty": "Dr. Subhash Chandra Chairman / N/A",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2003,
+        "Strength": 50
+    },
+    {
+        "Name": "Bachpan Play School",
+        "Category": "Play Schools",
+        "Location": "48, 11th Cross, 18th Main, Sector - 4, HSR Layout,, Opposite TVS Showroom, Bengaluru, Karnataka 560102",
+        "Faculty": "MR. S.K GUPTA Chairman / N/A MR. KRISHAN SHARMA Vice President (VP) / N/A",
+        "Sports": "Yoga",
+        "Amenities": "Transport, Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2004,
+        "Strength": 100
+    },
+    {
+        "Name": "Footprints Preschool & Day Care",
+        "Category": "International Schools",
+        "Location": "No 575, 1st A Main Rd, near Venugopala Swamy Temple, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "Raj Singhal CEO / B.Tech",
+        "Sports": "Yoga",
+        "Amenities": "Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2012,
+        "Strength": 100
+    },
+    {
+        "Name": "Budding World",
+        "Category": "Play Schools",
+        "Location": "9th Cross Rd, HSR Extension, Reliable Residency Layout Phase 3, HSR Layout, Haralur, Karnataka 560102",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2009,
+        "Strength": 45
+    },
+    {
+        "Name": "Royal Concorde International School",
+        "Category": "Other",
+        "Location": "D3, Sarjapur Main Rd, Amblipura, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560103",
+        "Faculty": "Mr. L.R.Shivarame Gowda Founder Chairperson / N/A",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Football, Handball, Ice-Hockey, Kabaddi, Kho-Kho, Lawn Tennis, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Little Elly Preschool",
+        "Category": "Other",
+        "Location": "86, Ph 3 Royal Placid Layout, HSR layout, Sector 2, Extn, Bengaluru, Karnataka 560102",
+        "Faculty": "Mr. Vittal Bhandary Founder / N/A",
+        "Sports": "Yoga",
+        "Amenities": "Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "The Learning Curve",
+        "Category": "Play Schools",
+        "Location": "1st Sector, HSR Layout 5th Sector, Bengaluru, Karnataka 560102",
+        "Faculty": "Suhas Bedekar Founder Director / N/A",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2011,
+        "Strength": 0
+    },
+    {
+        "Name": "Sanfort Play School",
+        "Category": "Play Schools",
+        "Location": "no.2461, 14th 'A' cross, 25th 'A' main, HSR layout, sector 1, Bengaluru, Karnataka 560102",
+        "Faculty": "Dr. S. K. Rathor Chairman & Managing Director / N/A",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1999,
+        "Strength": 15
+    },
+    {
+        "Name": "i wonder y, Preschool",
+        "Category": "Play Schools",
+        "Location": "No.267, 13th Main 21st Cross HSR Layout, Bangalore \u00e2\u20ac\u201c 560102., near BDA Complex",
+        "Faculty": "Riddhi Thakkar Founder & Director / N/A",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 30
+    },
+    {
+        "Name": "Little Raiders Play School",
+        "Category": "Play Schools",
+        "Location": "1908, 14th A Cross Rd, Vanganahalli, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Smart Kidz",
+        "Category": "Play Schools",
+        "Location": "# 2587, 26th Main Rd, Near HDFC Bank, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+        "Faculty": "A.S. Ganesh Managing Director / N/A",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2014,
+        "Strength": 0
+    },
+    {
+        "Name": "JSS Public School  HSR",
+        "Category": "Other",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Boxing, Carroms, Chess, Cricket, Football, Handball, Hockey, Swimming, Table-tennis, Tennis, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Euro School - HSR",
+        "Category": "Day Schools",
+        "Location": "19th Main, Garden Club, C.A. 13, 25th Cross Rd, HSR Extension, Sector 2, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "ICSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1999,
+        "Strength": 2300
+    },
+    {
+        "Name": "S V R Public School",
+        "Category": "Day Schools",
+        "Location": "28/4, Samasandrapalya, Sector 2, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "ICSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2002,
+        "Strength": 0
+    },
+    {
+        "Name": "Freedom International School",
+        "Category": "Day Schools",
+        "Location": "C A # 33, Sector IV, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2006,
+        "Strength": 1229
+    },
+    {
+        "Name": "JSS Public School",
+        "Category": "Day Schools",
+        "Location": "WJ7Q+G5X, Jakkasandra Cross Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2004,
+        "Strength": 1462
+    },
+    {
+        "Name": "National Public School",
+        "Category": "Day Schools",
+        "Location": "32/P2, 17th B Main Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2008,
+        "Strength": 1200
+    },
+    {
+        "Name": "BRILLIANT HIGH SCHOOL",
+        "Category": "Other",
+        "Location": "No.1080, 23rd main,11th cross,1st Sector, HSR layout, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "ICSE, State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Sri Chaitanya Techno School",
+        "Category": "Day Schools",
+        "Location": "Plot No: 55/21 9th Main, 27th Cross, HSR Layout 2nd Sector Opposite Nagarjuna Green Ridge Apartments, Garden Layout, Sector 2, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2013,
+        "Strength": 0
+    },
+    {
+        "Name": "BALDWIN INDIAN HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "10th Main Rd, 7th Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "ICSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1880,
+        "Strength": 0
+    },
+    {
+        "Name": "Newton Public English High School",
+        "Category": "Other",
+        "Location": "1st Cross Rd, Madina Nagar, Sector 7, Mangammanapalya, Bengaluru, Karnataka 560068, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board, CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "AL RAHI EDU SCH BOMMANA HALLI",
+        "Category": "Day Schools",
+        "Location": "Ist cross, WJ4P+242, near gulshan function hall, Mangammanapalya, bommanahalli, Bengaluru, Karnataka 560068, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2001,
+        "Strength": 0
+    },
+    {
+        "Name": "Gnan Srishti School Of Excellence",
+        "Category": "Other",
+        "Location": "19th Main, 17th Cross Rd, Vanganahalli, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "ICSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Lawrence School",
+        "Category": "Day Schools",
+        "Location": "Lawrence High School Icse, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "ICSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1991,
+        "Strength": 0
+    },
+    {
+        "Name": "SHUBODHINI SCHOOL",
+        "Category": "Other",
+        "Location": "WJ2R+92F, ITI Layout, Sector 7, HSR Layout, Bengaluru, Karnataka 560068, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Golden Arch Montessori School",
+        "Category": "Play Schools",
+        "Location": "No.363, 23rd Cross, 13th Main, Sector-7, HSR Layout, Bengaluru, Karnataka 560034",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 120
+    },
+    {
+        "Name": "Podar Jumbo Kids Plus",
+        "Category": "Other Collections",
+        "Location": "667, 9th Main Rd, Sector 7, HSR Layout, Bengaluru, Karnataka 560102",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1927,
+        "Strength": 80
+    },
+    {
+        "Name": "Lawrence High School  HSR",
+        "Category": "Other",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Cricket, Cycling, Football, Gymnastics, Hockey, Swimming, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Sesame Street Preschool",
+        "Category": "Play Schools",
+        "Location": "Plot 5A, Block-5, MCHS Colony, HSR Layout, Sector-6, Bengaluru, Karnataka 560102",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1969,
+        "Strength": 0
+    },
+    {
+        "Name": "JOHNSON HIGH SCHOOL",
+        "Category": "Other",
+        "Location": "Johnson School Rd, Popular Colony, Mangammanapalya, Bengaluru, Karnataka 560068, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board, CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Sri Sairam Vidya Mandira",
+        "Category": "Other",
+        "Location": "36, Somasundarapalya Main Rd, ITI Layout, Sector 2, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "TILAK SCHOOL",
+        "Category": "Day Schools",
+        "Location": "WJ3P+Q7C Tilak School, Tilak Nagar, Popular Colony, Mangammanapalya, Bengaluru, Karnataka 560068, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2000,
+        "Strength": 0
+    },
+    {
+        "Name": "UDAYA PUBLIC SCHOOL",
+        "Category": "Other",
+        "Location": "Bengaluru, Popular Colony, Mangammanapalya, Bengaluru, Karnataka 560068, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "SUNSHINE ENGLISH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "ITI Layout, Hosapalya, Mangammanapalya, opp. Masjid-e-Noor, Bandepalya, Bommanahalli, Bengaluru, Karnataka 560068, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "-",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1998,
+        "Strength": 0
+    },
+    {
+        "Name": "Little Elly Preschool",
+        "Category": "Play Schools",
+        "Location": "454, Karunya Dham, Opp SNN Raj serenity, Bannerghatta Main Rd, Nobel Residency, Off, Bengaluru, Karnataka 560076",
+        "Faculty": "Mr. Vittal Bhandary Founder / N/A",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2004,
+        "Strength": 0
+    },
+    {
+        "Name": "Interactive preschool",
+        "Category": "Play Schools",
+        "Location": "#16,Duo heights Layout, 2nd cross, Devarachikkanahalli, Begur road, Bengaluru-560068",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE, ICSE, Montessori",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2017,
+        "Strength": 0
+    },
+    {
+        "Name": "Ekya Schools, NICE Road",
+        "Category": "Other Collections",
+        "Location": "VJ36+WG6, Mylasandra, opposite Begur - Koppa Road, Tejaswini Nagar, Bengaluru, Karnataka 560076",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2022,
+        "Strength": 0
+    },
+    {
+        "Name": "CMR National PU College, NICE Road",
+        "Category": "Other",
+        "Location": "No. 45/2, Off Koppa-Begur Main Road, Yelanahalli, Bengaluru - 560076",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Ekya Schools, NICE Road",
+        "Category": "Other Collections",
+        "Location": "VJ36+WG6, Mylasandra, opposite Begur - Koppa Road, Tejaswini Nagar, Bengaluru, Karnataka 560076",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2022,
+        "Strength": 0
+    },
+    {
+        "Name": "Indus International School",
+        "Category": "International Schools",
+        "Location": "Billapura Cross, Sarjapura - Attibele Rd, Sarjapur, Bengaluru, Karnataka 562125",
+        "Faculty": "Arjun Ray CEO / N/A",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Horseback Riding, Kabaddi, Kho-Kho, Swimming, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate, IGCSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2003,
+        "Strength": 0
+    }
+]

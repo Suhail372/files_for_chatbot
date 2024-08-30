@@ -1,0 +1,1288 @@
+[
+    {
+        "Name": "JAIN International Residential School",
+        "Category": "International Schools",
+        "Location": "JAIN Global Campus, 45 km, Bangalore  \r\nKanakapura Rd (NH 209), Jakkasandra Post, Kanakapura Taluk, Ramanagara District - 562112, Bangalore (Rural), Karnataka, INDIA",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Billiards, Carroms, Chess, Cricket, Football, Golf, Hockey, Horseback Riding, Karate, Shooting, Skating, Squash, Swimming, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, Cambridge IGCSE, International Baccalaureate",
+        "Years": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1999,
+        "Strength": 750
+    },
+    {
+        "Name": "Trio World Academy",
+        "Category": "International Schools, Public Schools",
+        "Location": "No 3/6, Sahakarnagar, Kodigehalli Main Road, Bengaluru, Karnataka 560092",
+        "Faculty": "Mr. Robert Champion Secondary Principal / TRIO World Academy Mr. Vinod Singh Head of the School / TRIO World Academy",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Football, Skating, Swimming, Tennis, Throwball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "Cambridge IGCSE, International Baccalaureate",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2007,
+        "Strength": 500
+    },
+    {
+        "Name": "New Horizon International School",
+        "Category": "International Schools",
+        "Location": "New Horizon International School, Hennur Main Road, Kothanur, Bengaluru, Karnataka - 560077",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Karate, Kho-Kho, Skating, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, Cambridge IGCSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2022,
+        "Strength": 0
+    },
+    {
+        "Name": "Amrita International Vidyalayam",
+        "Category": "International Schools",
+        "Location": "Choodasandra, PO Huskur, Bangalore",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE, International Baccalaureate, Montessori",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2020,
+        "Strength": 0
+    },
+    {
+        "Name": "New Horizon Public School",
+        "Category": "Public Schools",
+        "Location": "100 Feet Road, Near Titan Showroom, HAL 2nd Stage, Indira Nagar, Bengaluru, Karnataka 560008",
+        "Faculty": "Dr. Mohan Manghnani. Chairman / N/A Ms Anupama Sethi Principal / M.A, B.Ed",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Skating, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1982,
+        "Strength": 2321
+    },
+    {
+        "Name": "Knowledgeum Academy",
+        "Category": "International Schools",
+        "Location": "Knowledgeum Academy#44/4, District Fund RoadJayanagar 9th BlockBengaluru, 560 069",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate",
+        "Years": [
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2021,
+        "Strength": 16
+    },
+    {
+        "Name": "Harrow International School Bengaluru",
+        "Category": "International Schools",
+        "Location": "Harrow International School Bengaluru, Opp DC Office, National Highway 207, Doddaballapur Main Rd, Devanahalli, Bengaluru, Karnataka 562110",
+        "Faculty": "ANDREW LEALE HEADMASTER / .",
+        "Sports": "Athletics, Basketball, Cricket, Football, Golf, Gymnastics, Swimming, Table-tennis, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "Cambridge IGCSE, International Baccalaureate",
+        "Years": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2023,
+        "Strength": 0
+    },
+    {
+        "Name": "National Centre For Excellence",
+        "Category": "Other",
+        "Location": "154/1, VIJAY KIRAN KNOWLEDGE PARK, 5th Main Rd, Malleshpalya, Kaggadasapura, Bengaluru, Karnataka 560075, India",
+        "Faculty": "",
+        "Sports": "Archery, Athletics, Badminton, Basketball, Carroms, Chess, Football, Karate",
+        "Amenities": "Transport, Laboratory, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2006,
+        "Strength": 2500
+    },
+    {
+        "Name": "The Shri Ram Universal School",
+        "Category": "Public Schools",
+        "Location": "#99, Green Garden layout, Phase 2, Chokkanahalli, bangalore north 560064.",
+        "Faculty": "",
+        "Sports": "Basketball, Cricket, Football, Skating, Swimming, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2023,
+        "Strength": 0
+    },
+    {
+        "Name": "The Academic City School",
+        "Category": "International Schools, Boarding Schools",
+        "Location": "Global Campus: The Academic City, Venkatapura, Bairegowdanahalli Bus Stop, Sondekoppa Road , Nelamangala, Bengaluru, Karnataka 562123",
+        "Faculty": "Sripal Jain Chairperson and Founder / CA, Educator, Entrepreneur, Author Ms. Madhusmita Bezbaruah Principal / Post Graduate Diploma in School Leadership and Management.",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Kho-Kho, Skating, Swimming, Table-tennis, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, IGCSE",
+        "Years": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2015,
+        "Strength": 306
+    },
+    {
+        "Name": "New Horizon Gurukul",
+        "Category": "Public Schools",
+        "Location": "KADUBISANAHALLI, KAVERAPPA LAY OUT, Doddakannelli - Kaadubeesanahalli Rd, Kaverappa Layout, Kadubeesanahalli, Bengaluru, Karnataka 560103",
+        "Faculty": "",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Swimming, Table-tennis, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2012,
+        "Strength": 3346
+    },
+    {
+        "Name": "Bethany High School",
+        "Category": "International Schools",
+        "Location": "CA -12, 20th Main, Koramangala, Next to Koramangala Police station, Bengaluru, Karnataka 560095",
+        "Faculty": "Dr. Akash Ryall Director / N/A",
+        "Sports": "Carroms, Chess, Cricket, Football, Kabaddi, Kho-Kho, Table-tennis, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1963,
+        "Strength": 3250
+    },
+    {
+        "Name": "MVM School",
+        "Category": "International Schools",
+        "Location": "Kannamangala, Near Toll, International Airport Road,Devanahalli,Bengaluru",
+        "Faculty": "",
+        "Sports": "Basketball, Football",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2011,
+        "Strength": 0
+    },
+    {
+        "Name": "New Horizon Gurukul Pre School",
+        "Category": "Play Schools, Public Schools",
+        "Location": "124/2, Bhoganahalli Main Road, Bellandur Post, Bangalore-560103, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport, Medical Facility, Smart Classrooms, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2012,
+        "Strength": 0
+    },
+    {
+        "Name": "National Public School",
+        "Category": "Public Schools",
+        "Location": "12th A Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+        "Faculty": "Dr. K. P. Gopalkrishna Chairman / N/A",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Kho-Kho, Skating, Table-tennis, Throwball, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1982,
+        "Strength": 0
+    },
+    {
+        "Name": "National Centre for Excellence",
+        "Category": "Other Collections",
+        "Location": "1054/2, 7th main, 11th cross, lic colony, next to murugan temple, jeevan bhima nagar, Bengaluru \u2013 560075.",
+        "Faculty": "",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Football, Table-tennis, Throwball, Volleyball",
+        "Amenities": "Transport, Smart Classrooms, Computers Facility, Library",
+        "Board": "Public Schools",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2017,
+        "Strength": 0
+    },
+    {
+        "Name": "Oakridge International School",
+        "Category": "International Schools",
+        "Location": "Varthur Road, Circle, near Dommasandra, Choudadenahalli, Bengaluru, Karnataka 562125",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Kho-Kho, Swimming, Table-tennis, Tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2012,
+        "Strength": 1000
+    },
+    {
+        "Name": "St. Francis School ICSE",
+        "Category": "Public Schools",
+        "Location": "3417, 3rd Block, 8th Main Rd, Koramangala, Bengaluru, Karnataka 560034",
+        "Faculty": "",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Kho-Kho, Lawn Tennis, Table-tennis, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2003,
+        "Strength": 0
+    },
+    {
+        "Name": "Mallya Aditi International School",
+        "Category": "International Schools",
+        "Location": "Behind NIPCCD building, RWF West Colony, Yelahanka New Town, Bengaluru, Karnataka 560106",
+        "Faculty": "",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Football, Handball, Kabaddi, Lawn Tennis, Tennis, Throwball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE, IGCSE",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1984,
+        "Strength": 0
+    },
+    {
+        "Name": "Kendriya Vidyalaya",
+        "Category": "Public Schools",
+        "Location": "1, Thyagi M Palanivelu Rd, ASC Centre, Bengaluru, Karnataka 560047",
+        "Faculty": "",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Hockey, Kabaddi, Kho-Kho, Tennis, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1963,
+        "Strength": 0
+    },
+    {
+        "Name": "Presidency School",
+        "Category": "Public Schools",
+        "Location": "No.80/1, 80/2, Bilekahalli, Off Bannerghatta Road, Bengaluru, Karnataka 560076",
+        "Faculty": "Mrs. J.Bhuvaneswari Director / Principal / PSBS / PSMNG",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Football, Handball, Kabaddi, Kho-Kho, Taekwondo, Throwball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2006,
+        "Strength": 0
+    },
+    {
+        "Name": "Inventure Academy",
+        "Category": "International Schools",
+        "Location": "Whitefield \u00e2\u20ac\u201c Sarjapur Road, Chikkavaderapura, Near Dommasandra Circle, Bengaluru, Karnataka 562125",
+        "Faculty": "Mr. Razack CHAIRMAN AND CO-FOUNDER / N/A Meenakshi Myer Principal / B.Ed",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Hockey, Kabaddi, Kho-Kho, Swimming, Table-tennis, Tennis, Throwball, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE, IGCSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2005,
+        "Strength": 0
+    },
+    {
+        "Name": "Ebenezer International School",
+        "Category": "International Schools",
+        "Location": "P.O, Singena Agrahara Road, Via Huskur Road, A.P.M.C. Yard, Huskur, Electronic City, Bengaluru, Karnataka 560099",
+        "Faculty": "Mr. Jesus Lall Chairman / N/A",
+        "Sports": "Archery, Athletics, Badminton, Basketball, Billiards, Boxing, Carroms, Chess, Checkers, Cricket, Cycling, Football, Golf, Gymnastics, Handball, Hockey, Horseback Riding, Ice-Hockey, Kabaddi, Karate, Kho-Kho, Netball, Swimming, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate, ICSE, Cambridge IGCSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 800
+    },
+    {
+        "Name": "The Deens Academy",
+        "Category": "Public Schools",
+        "Location": "No. 64/1 & 65/2, ECC Rd, Dodsworth Layout, Whitefield, Bengaluru, Karnataka 560066",
+        "Faculty": "Ms. Shanthi Menon Principal / N/A",
+        "Sports": "Carroms, Chess, Cricket, Kabaddi, Karate, Kho-Kho, Skating, Swimming, Tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2006,
+        "Strength": 0
+    },
+    {
+        "Name": "The Brigade School",
+        "Category": "Public Schools",
+        "Location": "Brigade Millenium Rd, Jagruthi Colony, BOB Colony, 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+        "Faculty": "",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Kho-Kho, Lawn Tennis, Skating, Tennis, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1990,
+        "Strength": 610
+    },
+    {
+        "Name": "Bangalore International School",
+        "Category": "International Schools",
+        "Location": "Hennur Bagalur Road, Kothanur Post, Geddalahalli, Bengaluru, Karnataka 560077",
+        "Faculty": "",
+        "Sports": "Basketball, Chess, Cricket, Football, Swimming, Tennis, Throwball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate, Cambridge IGCSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1969,
+        "Strength": 950
+    },
+    {
+        "Name": "Sri Aurobindo Memorial School",
+        "Category": "Public Schools",
+        "Location": "13-A Main, 22nd Cross, Banashankari II Stage, Bengaluru, Karnataka 560070",
+        "Faculty": "Ms. Aditi Vasishtha Secretary / N/A",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Kho-Kho, Table-tennis, Tennis, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1962,
+        "Strength": 3000
+    },
+    {
+        "Name": "BGS International Residential School",
+        "Category": "International Schools",
+        "Location": "Post, Nityananda Nagar, Gollahalli, Kengeri Hobli, Bengaluru, Karnataka 560074",
+        "Faculty": "Sri Sri .Dr.Prakasnath Swamiji Managing Director / N/A",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Football, Handball, Hockey, Kabaddi, Kho-Kho, Lawn Tennis, Skating, Swimming, Tennis, Throwball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1997,
+        "Strength": 0
+    },
+    {
+        "Name": "Neev Academy",
+        "Category": "International Schools",
+        "Location": "Sy.No.16, Yemalur - Kempapura Main Road Opp. Sai Garden Appartments, Yemalur, Bengaluru, Karnataka 560037",
+        "Faculty": "Kavita Gupta Sabharwal Director / .",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Kho-Kho, Swimming, Tennis, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate, ICSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2005,
+        "Strength": 0
+    },
+    {
+        "Name": "Bishop Cotton Girls School",
+        "Category": "International Schools",
+        "Location": "St. Mark's Road, Residency Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+        "Faculty": "Dr. Mrs. Lavanya Mithran Principal / M.Sc. B.Ed. Ph.D",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Kho-Kho, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility",
+        "Board": "ICSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1865,
+        "Strength": 7000
+    },
+    {
+        "Name": "Delhi Public School",
+        "Category": "International Schools",
+        "Location": "No 174, Hagadur Main Road, Near Forum Value Mall, Whitefield, Bengaluru, Karnataka 560066",
+        "Faculty": "Ms. Kamava Bopana Principal / N/A",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Football, Swimming, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2001,
+        "Strength": 0
+    },
+    {
+        "Name": "Treamis World School",
+        "Category": "Public Schools",
+        "Location": "Near Electronics City, Hulimangala Post, Bengaluru, Karnataka 560105",
+        "Faculty": "",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Football, Handball, Kabaddi, Kho-Kho, Lawn Tennis, Swimming, Table-tennis, Tennis, Throwball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, International Baccalaureate, IGCSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2007,
+        "Strength": 1500
+    },
+    {
+        "Name": "Kendriya Vidyalaya Hebbal",
+        "Category": "Public Schools",
+        "Location": "Sadashiva Nagar, Ashwath Nagar, Armane Nagar, Bengaluru, Karnataka 560080",
+        "Faculty": "Shri. Dharmendra Patle Deputy Commissioner KVS RO Bengaluru / .",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Kabaddi, Kho-Kho, Lawn Tennis, Tennis, Throwball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Bishop Cotton Boys School",
+        "Category": "International Schools",
+        "Location": "15, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+        "Faculty": "Dr. P. K. Samuel Chairman / N/A",
+        "Sports": "Archery, Athletics, Basketball, Chess, Cricket, Hockey, Kabaddi, Kho-Kho, Swimming",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility",
+        "Board": "ICSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1865,
+        "Strength": 6000
+    },
+    {
+        "Name": "Candor International School",
+        "Category": "International Schools",
+        "Location": "Koppa-harapanhalli Road, Hullahalli, Off, Bannerghatta Main Rd, near Electronic City, Bengaluru, Karnataka 560105",
+        "Faculty": "Ms. Anvita Gupta Principal / N/A",
+        "Sports": "Archery, Badminton, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Lawn Tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate, Cambridge IGCSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2011,
+        "Strength": 600
+    },
+    {
+        "Name": "Greenwood High International School",
+        "Category": "International Schools",
+        "Location": "No. 61, Off Bannerghatta Road, C K Palya Road,(Near Koli Farm Gate Bus Stop), Bengaluru, Karnataka",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Kabaddi, Kho-Kho, Skating, Swimming, Table-tennis, Tennis, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Computers Facility, Library",
+        "Board": "ICSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2014,
+        "Strength": 1000
+    },
+    {
+        "Name": "Vydehi School of Excellence",
+        "Category": "Public Schools",
+        "Location": "Vydehi Campus, 82, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066",
+        "Faculty": "",
+        "Sports": "Badminton, Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Kho-Kho, Tennis, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2010,
+        "Strength": 800
+    },
+    {
+        "Name": "Akash International School",
+        "Category": "Public Schools",
+        "Location": "Prasannahalli Road, Devanahalli,near Bangalore International Airport,bangalore",
+        "Faculty": "",
+        "Sports": "Basketball, Billiards, Carroms, Chess, Cricket, Football, Gymnastics, Hockey, Lawn Tennis, Soccer, Swimming, Table-tennis, Taekwondo, Tennis",
+        "Amenities": "Computers Facility, Library",
+        "Board": "CBSE, Other Boards",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2000,
+        "Strength": 0
+    },
+    {
+        "Name": "Hal Public School",
+        "Category": "International Schools",
+        "Location": "Suranjan Das Road, PO, Vimanapura, Bengaluru, Karnataka 560017",
+        "Faculty": "Ms. Soumi Das Principal / N/A",
+        "Sports": "Yoga",
+        "Amenities": "Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1999,
+        "Strength": 0
+    },
+    {
+        "Name": "Stonehill International School",
+        "Category": "International Schools, Boarding Schools",
+        "Location": "No.259/333/334/335, Tarahunise Post, Jala Hobli, Bengaluru, Karnataka 562157",
+        "Faculty": "Joe Lumsden Deputy Head of School & Secondary Principal / MA Education, MA English, BA American Studies Manpreet Kaur Secondary Assistant Principal & DP Coordinator / NA Karen Crooke Primary School Principal / NA Jitendra Pandey MYP Coordinator / NA Zita Joyce PYP Coordinator / NA Dr. Brian D. Brumsickle Head of School / NA",
+        "Sports": "Badminton, Basketball, Cricket, Football, Horseback Riding, Soccer, Swimming, Tennis, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2008,
+        "Strength": 650
+    },
+    {
+        "Name": "Vidyashilp Academy",
+        "Category": "Public Schools",
+        "Location": "Survey No. 1 & 31, Govindapura, behind Yelahanka Air Force Base, Yelahanka, Bengaluru, Karnataka 560064",
+        "Faculty": "",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Kho-Kho, Table-tennis, Tennikoit, Tennis, Throwball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE, IGCSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Indus International School",
+        "Category": "International Schools",
+        "Location": "Billapura Cross, Sarjapura - Attibele Rd, Sarjapur, Bengaluru, Karnataka 562125",
+        "Faculty": "Arjun Ray CEO / N/A",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Horseback Riding, Kabaddi, Kho-Kho, Swimming, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "International Baccalaureate, IGCSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2003,
+        "Strength": 0
+    },
+    {
+        "Name": "Glentree Academy - Whitefield",
+        "Category": "Public Schools",
+        "Location": "Nallurhalli Road, Palm Meadows, Nallurhalli, Whitefield, Bengaluru, Karnataka - 560066",
+        "Faculty": "Rizwana Reddy PRINCIPAL / N/A",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Kho-Kho, Table-tennis, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2015,
+        "Strength": 900
+    },
+    {
+        "Name": "National Public School",
+        "Category": "International Schools",
+        "Location": "National Games Village Complex, 80 Feet Rd, Koramangala, Bengaluru, Karnataka 560047",
+        "Faculty": "Dr. K. P. Gopalkrishna Chairman / N/A",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Karate, Kho-Kho, Lawn Tennis, Skating, Table-tennis, Throwball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2003,
+        "Strength": 0
+    },
+    {
+        "Name": "Army Public School",
+        "Category": "Other",
+        "Location": "Victoria Layout, Agram Post, Bengaluru, Karnataka \u00e2\u20ac\u201c 560007",
+        "Faculty": "",
+        "Sports": "Basketball, Football, Kho-Kho, Table-tennis, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Vibgyor High School",
+        "Category": "Public Schools",
+        "Location": "Survey No. 45/1 & 112, Village Vittasandra, Begur, Hobli Bengaluru South, Taluka, Bengaluru, Karnataka 560100",
+        "Faculty": "Rustom Kerawalla Founder Chairman VIBGYOR Group of Schools / N/A",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Handball, Hockey, Kabaddi, Karate, Kho-Kho, Lawn Tennis, Swimming, Tennis, Throwball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE, IGCSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2004,
+        "Strength": 0
+    },
+    {
+        "Name": "JSS Public School",
+        "Category": "Public Schools",
+        "Location": "31, 15th Main, 22nd Cross, Siddanna Layout, Banashankari Stage II, Banashankari, Bengaluru, Karnataka 560070",
+        "Faculty": "B. Nataraja Principal / N/A",
+        "Sports": "Archery, Badminton, Carroms, Chess, Checkers, Cricket, Football, Kabaddi, Kho-Kho, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1954,
+        "Strength": 0
+    }
+]

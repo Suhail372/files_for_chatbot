@@ -1,0 +1,1894 @@
+[
+    {
+        "Name": "East West Academy",
+        "Category": "International Schools",
+        "Location": "No.03, Near Bhashyam Circle Beauty Spot Park,, 63rd & 64th Cross, 5th Block,, 64th Cross Road, Rajajinagar, Bengaluru, Karnataka 560010",
+        "Faculty": "Mrs. Deepanjali Naik Principal / N/A",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Kho-Kho, Tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE, State Board",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2009,
+        "Strength": 0
+    },
+    {
+        "Name": "Sri Vani Education Centre",
+        "Category": "Public Schools",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Boxing, Carroms, Chess, Checkers, Cycling, Swimming, Tennis, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, International Baccalaureate, ICSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1966,
+        "Strength": 0
+    },
+    {
+        "Name": "Vidya Vardhaka Sangha",
+        "Category": "Public Schools",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Badminton, Basketball, Boxing, Cycling, Lawn Tennis, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1969,
+        "Strength": 1600
+    },
+    {
+        "Name": "KLE Society School",
+        "Category": "Public Schools",
+        "Location": "Rajajinagar, 12th Main Rd, 2nd Block, 2nd Stage, Rajajinagar, Bengaluru, Karnataka 560010",
+        "Faculty": "Dr. preeti Dodwad co-ordinator / N/A Dr. Prabhakar Kore Chairman / N/A",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Kabaddi, Kho-Kho, Skating, Swimming, Tennis, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1984,
+        "Strength": 0
+    },
+    {
+        "Name": "Venus International Public School",
+        "Category": "Public Schools",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Cricket, Football, Gymnastics, Table-tennis, Tennis, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1995,
+        "Strength": 0
+    },
+    {
+        "Name": "Venkat International Public School",
+        "Category": "Other",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Euro kids",
+        "Category": "Play Schools",
+        "Location": "Eurokids Rajajinagar #1035, Dr Raj Kumar Road, 4th Block Near Golden Heights Mall, Rajajinagar, Bengaluru, Karnataka 560010",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "Transport, Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2001,
+        "Strength": 100
+    },
+    {
+        "Name": "Orchids International School",
+        "Category": "International Schools",
+        "Location": "7, 3rd cross, 14th main, Post:, Prakash Nagar, Srirampura, Bengaluru, Karnataka 560021",
+        "Faculty": "",
+        "Sports": "Badminton, Carroms, Chess, Cricket",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2010,
+        "Strength": 0
+    },
+    {
+        "Name": "St. Mira's High School",
+        "Category": "Public Schools",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Billiards, Cycling, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1973,
+        "Strength": 0
+    },
+    {
+        "Name": "Spruha Virtual school",
+        "Category": "Other Collections",
+        "Location": "First Block, 135, 19th Main Rd, 2nd Block, Rajajinagar, Bengaluru, Karnataka 560010",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Kidzee",
+        "Category": "Play Schools",
+        "Location": "49/23, 19th Main Rd, 2nd Block, Rajajinagar, Bengaluru, Karnataka 560010",
+        "Faculty": "Dr. Subhash Chandra Chairman / N/A",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2003,
+        "Strength": 0
+    },
+    {
+        "Name": "Hello Kids",
+        "Category": "Play Schools",
+        "Location": "210, 3rd D Cross Rd, 3 Stage, Basaveshwar Nagar, 3rd Stage, Rajajinagar, Bengaluru, Karnataka 560079",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2005,
+        "Strength": 55
+    },
+    {
+        "Name": "Poddar Jumbo Kids",
+        "Category": "Play Schools",
+        "Location": "176/Y, 13 Main, Near, Bashyam Circle, 3rd Block, Rajajinagar, Bengaluru, Karnataka 560010",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1927,
+        "Strength": 85
+    },
+    {
+        "Name": "Time Kids",
+        "Category": "Play Schools",
+        "Location": "382,New Muncipal No 14, 19th G Main Rd, 1st Block, Rajajinagar, Bengaluru, Karnataka 560010",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Church Park International Public School - Rajajinagar",
+        "Category": "Day Schools",
+        "Location": "685, Dr Rajkumar Road, Circle, near 6th Block, 5th Block, Manjunath Nagar, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE, State Board",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2013,
+        "Strength": 250
+    },
+    {
+        "Name": "SRI CHAITANAYA TECHNO SCHOOL",
+        "Category": "Day Schools",
+        "Location": "Plot No:107-108/A 72 Cross, 12th Main Rd, near RPA College, Rajaji Nagar Industrial Town, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2014,
+        "Strength": 0
+    },
+    {
+        "Name": "GNANA JYOTHI HIGH SCHOOL",
+        "Category": "Other",
+        "Location": "4th N block, 59th C Cross Rd, 4N Block, Rajajinagar, Bengaluru, Karnataka 10, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "RES SCHOOL",
+        "Category": "Public Schools",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1992,
+        "Strength": 0
+    },
+    {
+        "Name": "Little Millennium",
+        "Category": "Play Schools",
+        "Location": "4th Main Rd, D-Block, Gayatrinagar, Rajajinagar, Bengaluru, Karnataka 560044",
+        "Faculty": "Mr. Raman Bajaj Founder / MBA",
+        "Sports": "Yoga",
+        "Amenities": "Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2008,
+        "Strength": 0
+    },
+    {
+        "Name": "Renuka Education Society School",
+        "Category": "Day Schools",
+        "Location": "3rd \u0915\u094d\u0930\u0949\u0938 \u092e\u093e\u0930\u094d\u0917, Prakash Nagar, Rajajinagar, Bengaluru, Karnataka 560021, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1968,
+        "Strength": 0
+    },
+    {
+        "Name": "K L E SOCIETY SCHOOL",
+        "Category": "Day Schools",
+        "Location": "Next to KLE Society\u2019s S Nijalingappa College, XHW3+C58, 2nd Block, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2002,
+        "Strength": 1073
+    },
+    {
+        "Name": "Assumption English School",
+        "Category": "Day Schools",
+        "Location": "13, 12th Main Rd, 2nd Block, 3rd Stage, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE, State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1971,
+        "Strength": 0
+    },
+    {
+        "Name": "MUDALIAR SEVA SANGHA",
+        "Category": "Day Schools",
+        "Location": "1772, Mariappanapalya, Rajajinagar, Bengaluru, Karnataka 560021, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2002,
+        "Strength": 0
+    },
+    {
+        "Name": "Sri Aurobindo Vidya Mandir",
+        "Category": "Day Schools",
+        "Location": "6/C, 5th Main, Dr MC Modi Hospital Rd, West of Chord Road 2nd Stage, West of Chord Road, Stage 2, Mahalakshmi Layout, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1967,
+        "Strength": 300
+    },
+    {
+        "Name": "INDIAN HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "12th B Main Rd, Shivanagar, Rajajinagar, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1976,
+        "Strength": 0
+    },
+    {
+        "Name": "NEW FLORENCE ENGLISH SCHOOL",
+        "Category": "Other",
+        "Location": "8th Cross Road, #17, 8th Main Rd, Shivanagar, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Kingston High School",
+        "Category": "Public Schools",
+        "Location": "1st A cross, Arabic College Post, Close to Manyatha Tech Park,, 50/2&3, 3rd Main Rd, North, near BEL Office - Petrol Bunk, Veerannapalya, Nagavara, Bengaluru, Karnataka 560045",
+        "Faculty": "Dalai Lama Principal / .",
+        "Sports": "Athletics, Badminton, Basketball, Carroms, Chess, Gymnastics, Lawn Tennis, Table-tennis, Tennis, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2013,
+        "Strength": 0
+    },
+    {
+        "Name": "Planet Kids",
+        "Category": "Play Schools",
+        "Location": "6th Main Rd, West of Chord Road 2nd Stage, West of Chord Road, 2nd Stage, Nagapura, Bengaluru, Karnataka 560086",
+        "Faculty": "Mr. Amar Kapasi Business Administration / B. Com, Diploma in Business Administration, PG Diploma in Marketing Management",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2005,
+        "Strength": 0
+    },
+    {
+        "Name": "Vidya Baharathi English School",
+        "Category": "Day Schools",
+        "Location": "Mahalakshmi Puram, 12th Cross Rd, West of Chord Road 2nd Stage, West of Chord Rd, Stage 2, Nagapura, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1978,
+        "Strength": 0
+    },
+    {
+        "Name": "V.V.S. SARDAR PATEL HIGH SCHOOL",
+        "Category": "Other",
+        "Location": "16, 10th Cross Rd, 1st Block, 1st N Block, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "Other Boards, State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "SOUTHERN CONVENT",
+        "Category": "Day Schools",
+        "Location": "XHR6+G5P, Lakshminarayanapuram, Rajajinagar, Bengaluru, Karnataka 560021, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1980,
+        "Strength": 0
+    },
+    {
+        "Name": "PVS Convent",
+        "Category": "Other",
+        "Location": "404, 12th Main Rd, III Stage 4 Block, Grihalakshmi Layout, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "New Cambridge International Public School",
+        "Category": "Day Schools",
+        "Location": "CA Site, 6(P, Chord Rd, Mahalakshmi Puram, Stage 2, Nagapura, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2010,
+        "Strength": 427
+    },
+    {
+        "Name": "National Public School",
+        "Category": "Public Schools",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Boxing, Football, Gymnastics, Table-tennis, Tennis, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1959,
+        "Strength": 0
+    },
+    {
+        "Name": "Anupama English School",
+        "Category": "Public Schools",
+        "Location": "West of Chord Road, II Stage,Mahalakshmipuram (Near Avani Shankar Mutt), Bengaluru, Karnataka",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Carroms, Chess, Cricket",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE, State Board",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1975,
+        "Strength": 2000
+    },
+    {
+        "Name": "Orchids International School",
+        "Category": "International Schools",
+        "Location": "9/6, 4th Cross Rd, Mahalakshmipuram Layout, Mahalakshmi Layout, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "Badminton, Carroms, Chess, Cricket, Football",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2006,
+        "Strength": 0
+    },
+    {
+        "Name": "Bachpan Play School",
+        "Category": "Play Schools",
+        "Location": "No. 1399, 12th B Cross, 2nd Stage, West of Chord Road, Mahalakshmipuram, Near Nandini Theatre, Bengaluru, Karnataka 560086",
+        "Faculty": "MR. S.K GUPTA Chairman / N/A MR. KRISHAN SHARMA Vice President (VP) / N/A",
+        "Sports": "Yoga",
+        "Amenities": "Smart Classrooms",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2004,
+        "Strength": 50
+    },
+    {
+        "Name": "Time Kids",
+        "Category": "Play Schools",
+        "Location": "'D', 97, 14th Cross Road, 2nd Phase, 2nd Stage, Mahalakshmipuram, Bengaluru, Karnataka 560086",
+        "Faculty": "",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Little Millennium",
+        "Category": "Play Schools",
+        "Location": "14th Cross Road, No.163, 5th Main Rd, 2nd Phase, Mahalakshmipuram Layout, Mahalakshmipuram, Bengaluru, Karnataka 560086",
+        "Faculty": "Mr. Raman Bajaj Founder / MBA",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2008,
+        "Strength": 25
+    },
+    {
+        "Name": "Vidya Bharathi English School",
+        "Category": "Play Schools, Public Schools",
+        "Location": "No. 463, 12th Cross, W.O.C. Road, Opp. to Mahalakshmipuram Police Station, Mahalakshmipuram, Bengaluru 560086",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1978,
+        "Strength": 0
+    },
+    {
+        "Name": "Planet Kids",
+        "Category": "Play Schools",
+        "Location": "Number 110, 2nd Stage, 2nd Phase, 6th Main Road, Near Nandini Theatre, Mahalakshmipuram, next to Smart Supermarket, Bengaluru, Karnataka 560086",
+        "Faculty": "Mr. Amar Kapasi Business Administration / B. Com, Diploma in Business Administration, PG Diploma in Marketing Management",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 2005,
+        "Strength": 0
+    },
+    {
+        "Name": "KANCHIKA VIDYA MANDIR SCHOOL",
+        "Category": "Other",
+        "Location": "1466, Aishwarya, 14th Main Road, Near-Kapil Chits, Mahalakshmipuram, VHBCS Layout, Kirloskar Colony, Nagapura, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "KANCHIKA VIDYA MANDIR SCHOOL",
+        "Category": "Other",
+        "Location": "1466, Aishwarya, 14th Main Road, Near-Kapil Chits, Mahalakshmipuram, VHBCS Layout, Kirloskar Colony, Nagapura, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Carmel High School",
+        "Category": "Other",
+        "Location": "4th Main Rd, Judicial Colony, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "ICSE, State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Ge Kay Convent High School",
+        "Category": "Other",
+        "Location": "#135, 3rd Stage, 3rd Block, 5th B Main Rd, West Of Chord Road, Saneguruvanahalli, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Kidzee",
+        "Category": "Play Schools",
+        "Location": "Ramachandrapura, Jalahalli East, Bengaluru, Karnataka 560013",
+        "Faculty": "Dr. Subhash Chandra Chairman / N/A",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2003,
+        "Strength": 0
+    },
+    {
+        "Name": "Orchids The International School",
+        "Category": "Other",
+        "Location": "",
+        "Faculty": "",
+        "Sports": "Athletics, Badminton, Basketball, Boxing, Cricket, Football, Throwball, Volleyball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "PAVAN ENGLISH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "65, 2nd Cross Rd, Nagappa Block, Srirampura, Bengaluru, Karnataka 560021, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1988,
+        "Strength": 400
+    },
+    {
+        "Name": "Premier High School",
+        "Category": "Day Schools",
+        "Location": "75, Puttaswamy Rd, 3rd Cross Rd, Labour Colony, Srirampura, Bengaluru, Karnataka 560021, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1982,
+        "Strength": 750
+    },
+    {
+        "Name": "INDIAN HIGH SCHOOL",
+        "Category": "Other",
+        "Location": "Basveshwarnagar, XGVQ+RP2, WOC, 3rd Stage 4th Block, Shakthi Ganapathi Nagar, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "NEHRU ENGLISH HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "No 140, St Johns Church Rd, Cleveland Town, Shivaji Nagar, Bengaluru, Karnataka 560005, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "-",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1965,
+        "Strength": 0
+    },
+    {
+        "Name": "Nirmala Rani High School",
+        "Category": "Day Schools",
+        "Location": "18th cross, 18th Cross Rd, Malleshwara, Bengaluru, Karnataka 560003, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "ICSE, State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1956,
+        "Strength": 0
+    },
+    {
+        "Name": "Mothers Public School",
+        "Category": "Other",
+        "Location": "2G4R+H9X, 14th Main Rd, AGB Layout, Stage 2, Maruthi Nagar, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "NATIONAL ACADEMY FOR LEARNING",
+        "Category": "Other",
+        "Location": "National Academy For Learning, 3rd Cross Rd, West Of Chord Road, West of Chord Road 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "National Academy For Learning",
+        "Category": "Day Schools",
+        "Location": "National Academy For Learning, 3rd Cross Rd, West Of Chord Road, West of Chord Road 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "IGCSE, ICSE, CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1988,
+        "Strength": 0
+    },
+    {
+        "Name": "Sri Vani Education Centre",
+        "Category": "Day Schools",
+        "Location": "Shamavana,3rd Block, Site No 1, 4th B Main Rd, West Of Chord Road, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "ICSE, State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1966,
+        "Strength": 0
+    },
+    {
+        "Name": "S.Cadambi Vidya Kendra",
+        "Category": "Day Schools",
+        "Location": "S Cadambi Independent Pre University College, S Cadambi Independent Pre University College, CA-2, 10th Main, 2nd Cross, Basaveshwar Nagar, 3rd Stage, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "ICSE, State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1985,
+        "Strength": 0
+    },
+    {
+        "Name": "ST. CHARLES HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "XGWR+JWJ, Adarsha layout, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1977,
+        "Strength": 0
+    },
+    {
+        "Name": "Carmel High School",
+        "Category": "Day Schools",
+        "Location": "4th Main Rd, Judicial Colony, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "ICSE, State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1968,
+        "Strength": 0
+    },
+    {
+        "Name": "THE BRIGADE SCHOOL",
+        "Category": "Day Schools",
+        "Location": "No. 26/1, Ward No. 9A, Rajaji Nagar Extension, West, Malleshwara, Bengaluru, Karnataka 560055, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "ICSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2009,
+        "Strength": 0
+    },
+    {
+        "Name": "East West Academy",
+        "Category": "Day Schools",
+        "Location": "D-Block, 2nd Stage, 7th Main Rd, E block, Subramanyanagar,2 State, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2009,
+        "Strength": 0
+    },
+    {
+        "Name": "DECCAN EDUCATION SOCIETY",
+        "Category": "Other",
+        "Location": "95, 3rd Cross Rd, 5th Block, 4N Block, Ramchandrapuram, Srirampura, Bengaluru, Karnataka 560021, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "SVES ENGLISH HIGH SCHOOL",
+        "Category": "Day Schools",
+        "Location": "No.950, 2nd Main Rd, 4th Block, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1980,
+        "Strength": 0
+    },
+    {
+        "Name": "Planet Kids",
+        "Category": "Play Schools",
+        "Location": "#308, 3rd Block, 3rd Stage, Basaveshwaranagar,Bangalore, Bengaluru, Karnataka 560079",
+        "Faculty": "Mr. Amar Kapasi Business Administration / B. Com, Diploma in Business Administration, PG Diploma in Marketing Management",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2005,
+        "Strength": 80
+    },
+    {
+        "Name": "Little Millennium",
+        "Category": "Play Schools",
+        "Location": "#195, 3rd D Cross Rd, near Carmel high school, 3 Stage, Basaveshwar Nagar, Stage 4, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+        "Faculty": "Mr. Raman Bajaj Founder / MBA",
+        "Sports": "Yoga",
+        "Amenities": "",
+        "Board": "Other Boards",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2008,
+        "Strength": 0
+    },
+    {
+        "Name": "RAJAJINAGER PARENTS ASSOCIATION SCHOOL",
+        "Category": "Day Schools",
+        "Location": "XHJ3+M53, 70th Cross Rd, 5th Block, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1969,
+        "Strength": 400
+    },
+    {
+        "Name": "CARMEL GARDEN SCHOOL",
+        "Category": "Other",
+        "Location": "#20 1st Main, 1st Cross, Nanjundeshwara Nagar, Nandhini Layout,, Rajkumar statue, KHBS Layout, Bengaluru, Karnataka 560079, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Vikas Central School",
+        "Category": "Other",
+        "Location": "No 46, 47, 60 Feet Rd, RIEHS Layout, JC Nagar, Kurubarahalli, Basaweshwara Nagar, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE, State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Atreya Vidyaniketan",
+        "Category": "Day Schools",
+        "Location": "11th Cross, Muniswamappa Layout, 75/9, 15th Main Rd, JC Nagar, Kurubarahalli, Basaweshwara Nagar, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2005,
+        "Strength": 504
+    },
+    {
+        "Name": "ATREYA VIDYANIKETHAN",
+        "Category": "Day Schools",
+        "Location": "11th Cross, Muniswamappa Layout, 75/9, 15th Main Rd, JC Nagar, Kurubarahalli, Basaweshwara Nagar, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2004,
+        "Strength": 610
+    },
+    {
+        "Name": "Samhitha English School",
+        "Category": "Other",
+        "Location": "Shop No, #108, 17th Main Rd, JC Nagar, Kurubarahalli, Laggere, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "Bharatiya Vidya Bhavan",
+        "Category": "Day Schools",
+        "Location": "Bharatiya Vidya Bhavan, Gowtham Nagar, Srirampura, Bengaluru, Karnataka 560021, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2011,
+        "Strength": 0
+    },
+    {
+        "Name": "SATHYA EDCUATION SOCIETY",
+        "Category": "Other",
+        "Location": "No 131, 10th Cross, Near-Bandireddy Circle, Bashyam Nagar, Lakshminarayanapuram, Rajajinagar, Bengaluru, Karnataka 560021, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "LITTLE PRETTY ENGLISH SCHOOL",
+        "Category": "Other",
+        "Location": "36/1, 1st Cross, Dayananda Nagar, Srirampuram, Srirampuram, Dayananda Nagar, Rajajinagar, Bengaluru, Karnataka 560021, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "S G International Public School",
+        "Category": "Day Schools",
+        "Location": "11th Main Rd, Saraswathipura, Nandini Layout, Bengaluru, Karnataka 560096, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1991,
+        "Strength": 758
+    },
+    {
+        "Name": "Ravi English School",
+        "Category": "Day Schools",
+        "Location": "72, Kurubarahalli, 6th Cross, West Of Chord Road, Kurubarahalli, Saraswathipura, Nandini Layout, Bengaluru, Karnataka 560086, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1980,
+        "Strength": 0
+    },
+    {
+        "Name": "RAGHAVENDRA HIGH SCHOOL",
+        "Category": "Other",
+        "Location": "8th Cross Rd, Cholourpalya, Vijayanagar, Bengaluru, Karnataka 560023, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "BP INDIAN PUBLIC SCHOOL",
+        "Category": "Day Schools",
+        "Location": "10th Cross, 4th Main Rd, Malleshwara, Bengaluru, Karnataka 560003, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "ICSE, State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1961,
+        "Strength": 2000
+    },
+    {
+        "Name": "Cluny Convent High School",
+        "Category": "Day Schools",
+        "Location": "11th Main Rd, Malleshwara, Bengaluru, Karnataka 560003, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "ICSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1948,
+        "Strength": 0
+    },
+    {
+        "Name": "M S V HIGH SCHOOL",
+        "Category": "Other",
+        "Location": "No.39, 4th Crs, Malleswaram, Srirampura, Bengaluru, Karnataka 560003, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "SRI VIDYA MANDIR EDUCATIONAL SOCIETY",
+        "Category": "Other",
+        "Location": "W Park Rd, Malleshwara, Bengaluru, Karnataka 560003, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "M S V HIGH SCHOOL",
+        "Category": "Other",
+        "Location": "No.39, 4th Crs, Malleswaram, Srirampura, Bengaluru, Karnataka 560003, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    }
+]

@@ -1,0 +1,312 @@
+[
+    {
+        "Name": "Bishop Cotton Boys School",
+        "Category": "International Schools",
+        "Location": "15, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+        "Faculty": "Dr. P. K. Samuel Chairman / N/A",
+        "Sports": "Archery, Athletics, Basketball, Chess, Cricket, Hockey, Kabaddi, Kho-Kho, Swimming",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility",
+        "Board": "ICSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1865,
+        "Strength": 6000
+    },
+    {
+        "Name": "Cathedral School",
+        "Category": "Public Schools",
+        "Location": "#38/10, Opp cathedral School, Richmond Rd, Muniswamy Garden, Neelasandra, Bengaluru, Karnataka 560025, India",
+        "Faculty": "Dr. Christy Glory Shanthi .Principal / B. Sc, MA, B Ed, PGDCA, MBA, M Phil., Ph.D",
+        "Sports": "Athletics, Basketball, Chess",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1866,
+        "Strength": 0
+    },
+    {
+        "Name": "Sophia High School",
+        "Category": "International Schools",
+        "Location": "70, Palace Rd, High Grounds, Bengaluru, Karnataka 560001, India",
+        "Faculty": "Sr. Alpana Palatty SND Principal High School / .",
+        "Sports": "Athletics, Basketball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1949,
+        "Strength": 0
+    },
+    {
+        "Name": "CHRIST SCHOOL",
+        "Category": "Public Schools",
+        "Location": "Christ School Road, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",
+        "Faculty": "Rev. Fr. Sebastian Elanjickal CMI .Principal / .",
+        "Sports": "Athletics, Basketball, Football, Throwball, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            -1
+        ],
+        "Since": 1984,
+        "Strength": 0
+    },
+    {
+        "Name": "Chinmaya Vidyalaya",
+        "Category": "Public Schools",
+        "Location": "Chinmaya Vidyalaya, Chinmaya Vidyalaya, Banashankari 6th Stage 9th Block, Hemmigepura, Karnataka 560060, India",
+        "Faculty": "Ms. YAMUNA SURYAPRAKASH .Principal / .",
+        "Sports": "Athletics, Basketball, Chess, Football, Volleyball",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 2013,
+        "Strength": 0
+    },
+    {
+        "Name": "Bishop Cotton Girls School",
+        "Category": "International Schools",
+        "Location": "St. Mark's Road, Residency Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+        "Faculty": "Dr. Mrs. Lavanya Mithran Principal / M.Sc. B.Ed. Ph.D",
+        "Sports": "Athletics, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Kho-Kho, Yoga",
+        "Amenities": "Transport, Laboratory, Smart Classrooms, Computers Facility",
+        "Board": "ICSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1865,
+        "Strength": 7000
+    },
+    {
+        "Name": "Sacred Heart Girls High School",
+        "Category": "Public Schools",
+        "Location": "25, Museum Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+        "Faculty": "Sr. Mary Margaret Principal / N/A",
+        "Sports": "Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Lawn Tennis, Tennis, Throwball, Yoga",
+        "Amenities": "Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library",
+        "Board": "ICSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1854,
+        "Strength": 0
+    },
+    {
+        "Name": "GOOD SHEPHERD CONVENT",
+        "Category": "Other",
+        "Location": "XJ94+W3C, Shubham Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "ICSE",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "OXFORD PUBLIC SCHOOL",
+        "Category": "Other",
+        "Location": "20/20, 17th A Main, 5th Block, Rajaji Nagar, Bhasyam circle, Behind Saraswati Book Store, 3rd Block, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "ICSE, State Board",
+        "Years": [
+            0
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 0,
+        "Strength": 0
+    },
+    {
+        "Name": "VENKAT INTERNATIONAL PUBLIC SCHOOL",
+        "Category": "Day Schools",
+        "Location": "19 A, K.B. Temple Street, 6th Block, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1995,
+        "Strength": 1000
+    },
+    {
+        "Name": "MES KISHORE KENDRA",
+        "Category": "Day Schools",
+        "Location": "15th Cross, 10th Main Rd, Maruthi Extension Vinayaka Layout, Malleshwara, Bengaluru, Karnataka 560003, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "",
+        "Board": "State Board",
+        "Years": [
+            "Nursery",
+            "LKG",
+            "UKG",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1979,
+        "Strength": 450
+    },
+    {
+        "Name": "National Public School",
+        "Category": "Other",
+        "Location": "5th Block,, 1036-A, WOC, 5th Block, Rajajinagar, Bengaluru, Karnataka 560010, India",
+        "Faculty": "",
+        "Sports": "",
+        "Amenities": "Transport",
+        "Board": "CBSE",
+        "Years": [
+            "Nursery",
+            "LKG"
+        ],
+        "Fee": [
+            50000
+        ],
+        "Since": 1959,
+        "Strength": 1522
+    }
+]
