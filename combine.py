@@ -26,7 +26,7 @@ def preprocess(json_data):
     return json_data
 
 # Path to the folder containing the JSON files
-folder_path = 'F:\\files_for_chatbot\\bangalore files'
+folder_path = 'F:\Chat_Proj\Project Files\preprocessed_data_bangalore'
 
 # List to store all dictionaries from the JSON files
 combined_json = []
@@ -39,7 +39,8 @@ for file_name in glob.glob(os.path.join(folder_path, '*.json')):
         # Ensure data is a list of dictionaries
         if isinstance(data, list):
             for item in data:
-                processed_item = preprocess(item)  # Preprocess each dictionary
+                processed_item = preprocess(item)
+                # Preprocess each dictionary
                 combined_json.append(processed_item)
         else:
             print(f"File {file_name} does not contain a list of dictionaries.")
@@ -51,8 +52,12 @@ combined_json = [convert_lists_to_tuples(d) for d in combined_json]
 unique_combined_json = [dict(t) for t in {frozenset(d.items()) for d in combined_json}]
 print(f"Unique items count: {len(unique_combined_json)}")
 
+# Reassign IDs after removing duplicates
+for id_no, item in enumerate(unique_combined_json, start=1):
+    item["Id"] = id_no
+
 # Save the merged JSON data without duplicates into a new file
-output_file = os.path.join('F:\\files_for_chatbot\\combined files', 'combined_data_bangalore.json')
+output_file = os.path.join('F:\\Chat_Proj\\Project Files\\combining and automation', 'cleaned_and_combined_blore.json')
 with open(output_file, 'w') as outfile:
     json.dump(unique_combined_json, outfile, indent=4)
 
