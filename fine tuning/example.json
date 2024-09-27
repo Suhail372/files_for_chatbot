@@ -1,0 +1,577 @@
+[
+    {
+        "query": "Can you recommend a good high school in Kadapa?",
+        "search_results": [
+            "School Name: ABC High School; Rating: 4.5; Facilities: Library, Sports Complex, Science Labs; Address: Kadapa, Andhra Pradesh; Description: ABC High School is known for its excellent academic track record and state-of-the-art facilities.",
+            "School Name: XYZ International School; Rating: 4.2; Facilities: Smart Classes, Sports Facilities, Music Room; Address: Kadapa, Andhra Pradesh; Description: XYZ International School offers a global curriculum and a wide range of extracurricular activities."
+        ],
+        "response": "Based on your query, I recommend ABC High School in Kadapa. It has a high rating of 4.5 and offers excellent facilities including a library, sports complex, and science labs. It is known for its outstanding academic performance. Another good option is XYZ International School, which has a rating of 4.2 and provides a global curriculum along with smart classes and a music room."
+    },
+    {
+        "query": "Which schools in Hyderabad have good sports facilities?",
+        "search_results": [
+            "School Name: PQR Public School; Rating: 4.6; Facilities: Football Ground, Swimming Pool, Tennis Courts; Address: Hyderabad, Telangana; Description: PQR Public School is renowned for its comprehensive sports facilities and strong emphasis on physical education.",
+            "School Name: LMN Academy; Rating: 4.3; Facilities: Basketball Court, Athletics Track, Gymnasium; Address: Hyderabad, Telangana; Description: LMN Academy offers a variety of sports facilities and promotes a balanced approach to academics and athletics."
+        ],
+        "response": "For good sports facilities in Hyderabad, PQR Public School stands out with a high rating of 4.6 and excellent sports amenities including a football ground, swimming pool, and tennis courts. LMN Academy is another great option, rated 4.3, and features a basketball court, athletics track, and gymnasium."
+    },
+    {
+        "query": "Tell me about the top schools in Bangalore with smart classes.",
+        "search_results": [
+            "School Name: Sunshine International School; Rating: 4.8; Facilities: Smart Classes, Science Labs, Arts Studio; Address: Bangalore, Karnataka; Description: Sunshine International School is highly acclaimed for its advanced smart classrooms and holistic education approach.",
+            "School Name: Greenfield High; Rating: 4.7; Facilities: Smart Classes, Library, Sports Arena; Address: Bangalore, Karnataka; Description: Greenfield High integrates smart technology in education and offers a robust curriculum with various facilities."
+        ],
+        "response": "In Bangalore, Sunshine International School is highly recommended for its advanced smart classrooms and excellent overall facilities, boasting a rating of 4.8. Greenfield High is another top choice with a rating of 4.7, known for integrating smart technology in education along with a comprehensive set of facilities."
+    },
+    {
+        "query": "Are there any good primary schools in Chennai with music programs?",
+        "search_results": [
+            "School Name: Harmony Primary School; Rating: 4.4; Facilities: Music Room, Art Classes, Play Area; Address: Chennai, Tamil Nadu; Description: Harmony Primary School offers a strong music program along with various artistic and recreational activities.",
+            "School Name: Little Stars Academy; Rating: 4.5; Facilities: Music Classes, Dance Studio, Playground; Address: Chennai, Tamil Nadu; Description: Little Stars Academy provides excellent music classes and a vibrant environment for young learners."
+        ],
+        "response": "Harmony Primary School in Chennai is a great option for primary education with a focus on music, offering a dedicated music room and various artistic activities. It has a rating of 4.4. Little Stars Academy, with a higher rating of 4.5, also provides excellent music classes and a dynamic learning environment."
+    },
+    {
+        "query": "What are some good schools in Mumbai?",
+        "search_results": [
+            "Insufficient data"
+        ],
+        "response": "I'm sorry, but there is insufficient data available to recommend any schools in Mumbai at the moment. Please try again later or refine your search criteria."
+    },
+    {
+        "query": "State board schools in himayatnagar",
+        "search_results": [
+            "Name: St Anthony Middle School; Category: Other; Location: Street No 9, 3-6-592, Street Number 7, Advocates Colony, Himayatnagar, Hyderabad, Telangana 500029, India; Faculty: ; Sports: ; Amenities: ; Board: State Board; Years: 0; Fee: 35400; Since: Not Available; Strength: Not Available",
+            "Name: Dwaraka High School; Category: Other; Location: opp. A V College Road, Gagan Mahal, Domalguda, Himayatnagar, Hyderabad, Telangana 500029, India; Faculty: ; Sports: ; Amenities: Transport; Board: State Board; Years: 0; Fee: 24998; Since: Not Available; Strength: Not Available",
+            "Name: Oxford Grammar School; Category: Day Schools; Location: 3-6-743/2, Street Number 13, Himayatnagar, Hyderabad, Telangana 500029, India; Faculty: ; Sports: ; Amenities: ; Board: CBSE, State Board; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 50000; Since: 1981; Strength: 550"
+        ],
+        "response": "In Himayatnagar, St Anthony Middle School and Dwaraka High School are notable state board schools. St Anthony Middle School has a fee of ₹35,400, while Dwaraka High School charges ₹24,998 and offers transport facilities. Oxford Grammar School is another option offering both CBSE and State Board curricula, with a fee of ₹50,000 and a student strength of 550."
+    },
+    {
+        "query": "State board schools in jubilee",
+        "search_results": [
+            "Name: GOWTHAM MODEL SCHOOL; Category: Other; Location: F94F+68M, Jubilee Enclave Rd, Jubilee Enclave, HITEC City, Hyderabad, Telangana 500081, India; Faculty: ; Sports: ; Amenities: Transport; Board: State Board; Years: 0; Fee: 20000; Since: Not Available; Strength: Not Available",
+            "Name: SRI POOJITHA SCHOOL; Category: Day Schools; Location: Park View Enclave, Jubilee Hills, Hyderabad, Telangana; Faculty: ; Sports: ; Amenities: Transport; Board: State Board; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 22000; Since: 2008; Strength: Not Available",
+            "Name: Richmonds High School; Category: Day Schools; Location: Plot No.104, Krishna Nagar, Phase 3, Kamalapuri Colony, Jubilee Hills, Hyderabad, Telangana 500073, India; Faculty: ; Sports: ; Amenities: Transport; Board: State Board; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 24000; Since: 1994; Strength: 500"
+        ],
+        "response": "In Jubilee, GOWTHAM MODEL SCHOOL, SRI POOJITHA SCHOOL, and Richmonds High School are good state board options. GOWTHAM MODEL SCHOOL charges a fee of ₹20,000 and offers transport facilities. SRI POOJITHA SCHOOL, established in 2008, has a fee of ₹22,000 and provides transport as well. Richmonds High School, with a fee of ₹24,000 and a student strength of 500, also offers transport facilities."
+    },
+    {
+        "query": "State board schools in banjara",
+        "search_results": [
+            "Name: HANSEL SCHOOL; Category: Other; Location: Arora Colony, 15, Rd Number 3, Green Valley, Banjara Hills, Hyderabad, Telangana 500034, India; Faculty: ; Sports: ; Amenities: ; Board: CBSE, State Board; Years: 0; Fee: 35000; Since: Not Available; Strength: Not Available",
+            "Name: Raghava High School; Category: Day Schools; Location: 12-2-827/28, Saptagiri Nagar, Banjara Hills, Sapthagiri Nagar Colony, Brindawan Colony, Rethibowli, Mehdipatnam, Hyderabad, Telangana 500034, India; Faculty: ; Sports: ; Amenities: ; Board: State Board; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 19500; Since: 2008; Strength: Not Available",
+            "Name: Azaan International School; Category: Public Schools; Location: Road No. 6, 8-2-404, Anand Banjara Colony, Banjara Hills, Hyderabad, Telangana 500034, India; Faculty: ; Sports: Athletics, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Table-tennis, Tennis; Amenities: Transport, Laboratory, Computers Facility, Library; Board: CBSE, ICSE, State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: -1; Since: 2006; Strength: Not Available"
+        ],
+        "response": "In Banjara Hills, HANSEL SCHOOL, Raghava High School, and Azaan International School are recommended. HANSEL SCHOOL offers both CBSE and State Board curricula with a fee of ₹35,000. Raghava High School, established in 2008, has a fee of ₹19,500. Azaan International School provides comprehensive sports facilities and offers CBSE, ICSE, and State Board options."
+    },
+    {
+        "query": "State board schools in kondapur",
+        "search_results": [
+            "Name: Sri Krishnaveni Talent School; Category: Other; Location: Sri Keshaveni Talent School, Rd No 4, Sri Ramnagar - Block B, Kondapur, Hyderabad, Telangana 500084, India; Faculty: ; Sports: ; Amenities: Transport; Board: State Board; Years: 0; Fee: 20000; Since: Not Available; Strength: Not Available",
+            "Name: Samskruthi High School; Category: Public Schools; Location: Near Berean Gospel Church, Raja Rajeshwara Nagar, Kondapur, Hyderabad, Telangana 500084; Faculty: ; Sports: Badminton, Basketball, Chess, Cricket, Football, Table-tennis; Amenities: Transport, Medical Facility, Computers Facility; Board: State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 24000, 27000; Since: 1999; Strength: Not Available",
+            "Name: Sreenidhi School of Excellence; Category: Other Collections; Location: Sri Ramnagar - Block B, Kondapur, Hyderabad, Telangana 500084; Faculty: ; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Karate, Skating, Swimming, Table-tennis, Tennis, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: -1; Since: Not Available; Strength: Not Available"
+        ],
+        "response": "In Kondapur, Sri Krishnaveni Talent School, Samskruthi High School, and Sreenidhi School of Excellence are notable state board schools. Sri Krishnaveni Talent School charges a fee of ₹20,000 and offers transport facilities. Samskruthi High School, established in 1999, has a fee range of ₹24,000 to ₹27,000 and provides a variety of sports and amenities. Sreenidhi School of Excellence offers extensive sports and amenities and provides both CBSE and State Board options."
+    },
+    {
+        "query": "State board schools in patancheruvu",
+        "search_results": [
+            "Name: SHRI SAI SHIVA HIGH SCHOOL; Category: Day Schools; Location: G7G8+4WR, Sri Nagar Colony, Shanthi Nagar, Patancheruvu, Telangana 502319, India; Faculty: ; Sports: ; Amenities: Transport; Board: State Board; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 15000; Since: 1994; Strength: Not Available"
+        ],
+        "response": "In Patancheruvu, SHRI SAI SHIVA HIGH SCHOOL is a recommended state board school. Established in 1994, it offers transport facilities and has a fee of ₹15,000."
+    },    {
+        "query": "State board schools in begumpet",
+        "search_results": [
+            "Name: PATMOS SCHOOL; Category: Day Schools; Location: 11, 151, Main Road, beside Patmos School, Fatehnagar, Begumpet, Hyderabad, Telangana 500018, India; Faculty: ; Sports: ; Amenities: ; Board: State Board; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 60000; Since: 1978; Strength: 800",
+            "Name: Vijaya Modern School; Category: Other; Location: 1-8-506/4/A, Prakash Nagar Rd, Prakash Nagar, Begumpet, Hyderabad, Telangana 500016, India; Faculty: ; Sports: ; Amenities: ; Board: State Board; Years: 0; Fee: 12000; Since: Not Available; Strength: Not Available",
+            "Name: Gowtham Model School; Category: Public Schools; Location: Plot No. 10 & 11, Chikoti Garden, Near Nalli Silk Showroom, Begumpet, Hyderabad, Telangana 500016, India; Faculty: ; Sports: Athletics, Carroms, Chess, Cricket, Karate, Volleyball; Amenities: Transport, Laboratory, Smart Classrooms, Computers Facility, Library; Board: State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: -1; Since: Not Available; Strength: Not Available"
+        ],
+        "response": "In Begumpet, PATMOS SCHOOL is a notable state board school established in 1978, offering a comprehensive educational experience with a fee of ₹60,000 and a strength of 800 students."
+    },
+    {
+        "query": "State board schools in gachibowli",
+        "search_results": [
+            "Name: Blue Blocks Pre School; Category: Play Schools; Location: MIG 3, Lane opposite to DLF, APHB Colony, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032, India; Faculty: Ms. Munira Hussain Director / Graduate in Psychology; Sports: Basketball, Cricket, Football, Lawn Tennis, Tennis; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: State Board; Years: -1, 0, 1, 2, 3, 4, 5; Fee: 25000; Since: 2009; Strength: Not Available",
+            "Name: Sri Vijaya Bharathi High School; Category: Public Schools; Location: Diamond Hills, Lumbini Avenue, Gachibowli, Hyderabad, Telangana 500032, India; Faculty: ; Sports: Athletics, Carroms, Chess, Cricket, Table-tennis, Tennis; Amenities: Transport, Medical Facility, Computers Facility; Board: State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 19000, 21000; Since: 2013; Strength: Not Available",
+            "Name: Sri Vijaya Bharathi High school; Category: Other; Location: C9MC+XCG, Diamond Hills, Lumbini Avenue, Gachibowli, Hyderabad, Telangana 500032, India; Faculty: ; Sports: ; Amenities: Transport; Board: State Board; Years: 0; Fee: 19999; Since: Not Available; Strength: Not Available"
+        ],
+        "response": "In Gachibowli, Blue Blocks Pre School is a prominent state board institution established in 2009, with a fee of ₹25,000 and offering diverse sports activities."
+    },
+    {
+        "query": "State board schools in madhapur",
+        "search_results": [
+            "Name: RAVINDRA BHARATHI SCHOOL; Category: Day Schools; Location: PLOT : 16 to 18, Megha Hills colony, OPP:HOTEL KASANI GR, Megha Hills, Sri Sai Nagar, Madhapur, Hyderabad, Telangana 500081, India; Faculty: ; Sports: ; Amenities: Transport; Board: State Board; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 35000; Since: 2011; Strength: 600",
+            "Name: Narayana High School; Category: Public Schools; Location: No. 13/C, Plot No. 74-75, Jai Hind Enclave, Ayyappa Society, VIP Hills, Madhapur, Hyderabad, Telangana 500081, India; Faculty: Dr. P Narayana Founder / M.Sc, Ph.D; Sports: Cricket; Amenities: Transport, Laboratory, Computers Facility, Library; Board: State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 39000, 40000; Since: 1979; Strength: Not Available",
+            "Name: SR DIGI SCHOOL; Category: Day Schools; Location: Plot No.92,Kavuri Hills Road,Kavuri Hills Phase 2, CBI Colony, Madhapur, Kavuri Hills, Madhapur, Hyderabad, Telangana 500033, India; Faculty: ; Sports: ; Amenities: ; Board: CBSE, State Board; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 25000; Since: 2011; Strength: 500"
+        ],
+        "response": "In Madhapur, RAVINDRA BHARATHI SCHOOL is a well-known state board school, established in 2011, with a fee of ₹35,000 and a strength of 600 students."
+    },
+    {
+        "query": "State board schools in miyapur",
+        "search_results": [
+            "Name: The Indo English High School; Category: Public Schools; Location: HMT Swarnapuri, IV Venture, Miyapur, Hyderabad – 500049; Faculty: ; Sports: Kabaddi, Karate, Skating, Volleyball; Amenities: Transport, Laboratory, Computers Facility, Library; Board: State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: -1; Since: Not Available; Strength: Not Available",
+            "Name: The Creek Planet School, Mercury Campus; Category: Public Schools; Location: Sy. No.437 & 438, Miyapur - Medchal Highway, Bowrampet, Qutbhullapur Mandal. Hyderabad - 500 043. Telangana, India.; Faculty: Mrs. Anupama Devi B Principal; Sports: Athletics, Basketball, Cricket, Tennis, Volleyball; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, State Board; Years: 5, 6, 7, 8, 9, 10; Fee: 79000, 120000; Since: 2008; Strength: Not Available",
+            "Name: CASTLE TOWN; Category: Day Schools; Location: Castle Town, Road No. 1, A.S. Raju Nagar, Sri Aurobindo Colony, ASRRaju Nagar, Miyapur, Telangana 500049, India; Faculty: ; Sports: ; Amenities: ; Board: CBSE, State Board; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 88000; Since: 2005; Strength: 400"
+        ],
+        "response": "In Miyapur, The Indo English High School is a state board school offering sports activities like Kabaddi and Volleyball, though specific fee details are unavailable."
+    },
+    {
+        "query": "ICSE board schools in jubilee",
+        "search_results": [
+            "Name: Walden's Path; Category: Play Schools, Public Schools; Location: Plot No. 309, Road No. 78, Jubilee Hills, Hyderabad; Faculty: ; Sports: Athletics, Badminton, Carroms, Chess, Cricket, Karate, Yoga; Amenities: Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: ICSE, Cambridge IGCSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 150000, 300000; Since: 2014; Strength: Not Available"
+        ],
+        "response": "In Jubilee, Walden's Path is a prominent ICSE board school established in 2014, offering a variety of amenities including medical facilities and smart classrooms. The fee structure ranges from ₹150,000 to ₹300,000."
+    },
+    {
+        "query": "ICSE board schools in banjara",
+        "search_results": [
+            "Name: Kalpa School; Category: Public Schools; Location: #20, Avenue 5, Road No.8, Banjara Hills, Hyderabad, Telangana, India - 500 034; Faculty: ; Sports: Archery, Basketball, Karate, Skating, Swimming, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: ICSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 35000, 90000; Since: 1991; Strength: Not Available",
+            "Name: Azaan International School; Category: Public Schools; Location: Road No. 6, 8-2-404, Anand Banjara Colony, Banjara Hills, Hyderabad, Telangana 500034, India; Faculty: ; Sports: Athletics, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Table-tennis, Tennis; Amenities: Transport, Laboratory, Computers Facility, Library; Board: CBSE, ICSE, State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: -1; Since: 2006; Strength: Not Available",
+            "Name: Queens International School; Category: Public Schools; Location: Near Sri Nagar Colony, Opposite To Sathya Sai Nigam, Gate No. 2, Banjara Hills, SBH Colony, Yousufguda, Hyderabad, Telangana 500045, India; Faculty: Sri.M.Ramalingam Principal / M.Sc, M.A, M.Ed; Sports: Carroms, Chess, Cricket, Kabaddi, Karate, Kho-Kho, Tennis, Volleyball; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: ICSE, State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 30000, 35000; Since: 2008; Strength: 500"
+        ],
+        "response": "In Banjara Hills, you can consider Kalpa School, Azaan International School, and Queens International School. Each offers unique amenities and a range of sports activities, with fees varying from ₹30,000 to ₹90,000."
+    },
+    {
+        "query": "ICSE board schools in begumpet",
+        "search_results": [
+            "Name: Gitanjali Primary School; Category: Public Schools; Location: Brahmanwadi, Begumpet, beside Varun Motors, Hyderabad, Telangana 500016; Faculty: Gita Karan Founder Principal & Director / M.A., B. Ed.; Sports: Cricket, Football, Kabaddi, Kho-Kho, Table-tennis, Tennis, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, ICSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: -1; Since: 1985; Strength: Not Available",
+            "Name: Gitanjali Primary School; Category: Day Schools; Location: Begumpet Rd, beside Varun Motors, Brahman Wadi, Begumpet, Hyderabad, Telangana 500016, India; Faculty: ; Sports: ; Amenities: Transport; Board: ICSE; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 110000; Since: 1985; Strength: 500",
+            "Name: The Hyderabad Public School; Category: Public Schools; Location: 1-11-87 & 88 , S.P. Road, Begumpet, Hyderabad, Telangana 500016; Faculty: Mr. Skand Bali Principal / N/A; Sports: Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Hockey, Kabaddi, Kho-Kho, Table-tennis, Tennis, Throwball, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: ICSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: -1; Since: 1923; Strength: Not Available"
+        ],
+        "response": "In Begumpet, Gitanjali Primary School and The Hyderabad Public School are excellent ICSE board options, each with various amenities and sports activities, but they have different fee structures."
+    }
+,  {
+    "query": "ICSE board schools in begumpet",
+    "search_results": [
+        "Name: Gitanjali Primary School; Category: Public Schools; Location: Brahmanwadi, Begumpet, beside Varun Motors, Hyderabad, Telangana 500016; Faculty: Gita Karan Founder Principal & Director / M.A., B. Ed.; Sports: Cricket, Football, Kabaddi, Kho-Kho, Table-tennis, Tennis, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, ICSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: -1; Since: 1985; Strength: Not Available",
+        "Name: Gitanjali Primary School; Category: Day Schools; Location: Begumpet Rd, beside Varun Motors, Brahman Wadi, Begumpet, Hyderabad, Telangana 500016, India; Faculty: ; Sports: ; Amenities: Transport; Board: ICSE; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 110000; Since: 1985; Strength: 500",
+        "Name: The Hyderabad Public School; Category: Public Schools; Location: 1-11-87 & 88 , S.P. Road, Begumpet, Hyderabad, Telangana 500016; Faculty: Mr. Skand Bali Principal / N/A; Sports: Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Hockey, Kabaddi, Kho-Kho, Table-tennis, Tennis, Throwball, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: ICSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: -1; Since: 1923; Strength: Not Available"
+    ],
+    "response": "In Begumpet, Gitanjali Primary School and The Hyderabad Public School are excellent ICSE board options, each with various amenities and sports activities, but they have different fee structures."
+}
+,{
+    "query": "ICSE board schools in gachibowli",
+    "search_results": [
+        "Name: Euro School; Category: Public Schools; Location: Survey No. 54, Near Hotel Quality Pearl inn, Gachibowli Link Road, Hitech City, Hyderabad, Telangana 500032; Faculty: Ms. Vishnu Vandana Principal; Sports: Athletics, Carroms, Chess, Football, Gymnastics, Skating, Swimming, Table-tennis, Taekwondo, Throwball; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, ICSE, Cambridge IGCSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: -1; Since: 2013; Strength: Not Available",
+        "Name: NASR School for Boys; Category: Day Schools; Location: Survey No. 47, Serilingampally, 1-72-4/4, NASR Boys School Rd, P Janardhan Reddy Nagar, Gachibowli, Hyderabad, Telangana 500081, India; Faculty: ; Sports: ; Amenities: Transport; Board: ICSE; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 140000; Since: 1998; Strength: Not Available"
+    ],
+    "response": "In Gachibowli, Euro School and NASR School for Boys offer ICSE board education, with Euro School providing a broad sports curriculum and NASR School focusing on essential amenities."
+}
+,{
+    "query": "ICSE board schools in madhapur",
+    "search_results": [
+        "Name: Ravindra Bharathi School; Category: Public Schools; Location: PLOT : 16 to 18, Megha Hills colony, OPP:HOTEL KASANI GR, Megha Hills, Sri Sai Nagar, Madhapur, Hyderabad, Telangana 500081; Faculty: Mr. M Subramanyam Principal / N/A; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Kho-Kho, Lawn Tennis, Table-tennis, Tennikoit, Tennis, Throwball, Volleyball; Amenities: Transport, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, ICSE, State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: -1; Since: 1994; Strength: Not Available"
+    ],
+    "response": "In Madhapur, Ravindra Bharathi School is a notable ICSE board institution that provides various sports and educational amenities."
+}, {
+    "query": "International Baccalaureate board schools with Volleyball",
+    "search_results": [
+        "Name: Oakridge International School; Category: International Schools; Location: Bowrampet, Near Bachupally, Hyderabad 500 043, Telangana, India; Faculty: Ms. Baljeet Oberoi Principal / Masters in Mathematics; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Hockey, Ice-Hockey, Karate, Lawn Tennis, Skating, Swimming, Tennis, Throwball, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, International Baccalaureate, Cambridge IGCSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 21800000, 71700000; Since: 2001; Strength: Not Available",
+        "Name: Academic Heights Public School; Category: Public Schools; Location: Ahps Beeramguda, Survey no 78 to 102, Opp to Praneeth Pranav Homes Patelguda, Kistareddypet, Ameenpur, Mandal, Sangareddy, Telangana 502032; Faculty: D. PARIMALA Principal / M.C.A., M.A., B.Ed.; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Gymnastics, Table-tennis, Tennis, Volleyball; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, International Baccalaureate; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 45000, 65000; Since: 2017; Strength: Not Available",
+        "Name: Indus International Junior School; Category: International Schools; Location: Plot No.23D, Nallagandla, Huda Colony, Serillingampally, Ranga Reddy District 500019; Faculty: Ms. Nuwaira Pasha Principal / Diploma in Early Childhood and Pre-school; Sports: Badminton, Basketball, Carroms, Cricket, Football, Hockey, Horseback Riding, Kabaddi, Kho-Kho, Swimming, Table-tennis, Tennis, Throwball, Volleyball, Yoga; Amenities: Transport, Laboratory, Smart Classrooms, Computers Facility, Library; Board: International Baccalaureate; Years: -1, 0, 1, 2, 3, 4; Fee: 22000, 230000; Since: 2008; Strength: Not Available"
+    ],
+    "response": "In Hyderabad, Oakridge International School, Academic Heights Public School, and Indus International Junior School offer the International Baccalaureate board and include Volleyball in their sports activities, each with a range of amenities and fee structures."
+},
+{
+    "query": "International Baccalaureate board schools with Yoga",
+    "search_results": [
+        "Name: Oakridge International School; Category: International Schools; Location: Bowrampet, Near Bachupally, Hyderabad 500 043, Telangana, India; Faculty: Ms. Baljeet Oberoi Principal / Masters in Mathematics; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Hockey, Ice-Hockey, Karate, Lawn Tennis, Skating, Swimming, Tennis, Throwball, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, International Baccalaureate, Cambridge IGCSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 21800000, 71700000; Since: 2001; Strength: Not Available",
+        "Name: Glendale International School IB-PYP; Category: International Schools; Location: HIG -120 - 128, Road No: 20, HMDA Layout, Tellapur, Hyderabad, Telangana 502032; Faculty: Anjum Babukhan Director / M.Ed B.A; Sports: Badminton, Basketball, Carroms, Chess, Cricket, Football, Kabaddi, Karate, Kho-Kho, Skating, Swimming, Table-tennis, Tennis, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: International Baccalaureate; Years: -1, 0, 1, 2, 3, 4, 5; Fee: -1; Since: 2003; Strength: Not Available",
+        "Name: Indus International Junior School; Category: International Schools; Location: Plot No.23D, Nallagandla, Huda Colony, Serillingampally, Ranga Reddy District 500019; Faculty: Ms. Nuwaira Pasha Principal / Diploma in Early Childhood and Pre-school; Sports: Badminton, Basketball, Carroms, Cricket, Football, Hockey, Horseback Riding, Kabaddi, Kho-Kho, Swimming, Table-tennis, Tennis, Throwball, Volleyball, Yoga; Amenities: Transport, Laboratory, Smart Classrooms, Computers Facility, Library; Board: International Baccalaureate; Years: -1, 0, 1, 2, 3, 4; Fee: 22000, 230000; Since: 2008; Strength: Not Available"
+    ],
+    "response": "In Hyderabad, Oakridge International School, Glendale International School IB-PYP, and Indus International Junior School provide the International Baccalaureate curriculum and offer Yoga among their sports activities, with various amenities and fee structures."
+},
+{
+    "query": "International Baccalaureate board schools with Laboratory",
+    "search_results": [
+        "Name: Solitaire Global Schools; Category: International Schools, Public Schools; Location: Sri Sai Janachithanya Colony, Golden Heights Colony, Upparpally, Hyderabad, Telangana 500030, India; Faculty: Mrs. Manjula Kasturi Principal; Sports: Basketball, Carroms, Chess, Cricket, Football, Skating, Swimming, Taekwondo; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: Cambridge IGCSE, International Baccalaureate; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: -1; Since: 2017; Strength: Not Available",
+        "Name: Oakridge International School; Category: International Schools; Location: Bowrampet, Near Bachupally, Hyderabad 500 043, Telangana, India; Faculty: Ms. Baljeet Oberoi Principal / Masters in Mathematics; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Hockey, Ice-Hockey, Karate, Lawn Tennis, Skating, Swimming, Tennis, Throwball, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, International Baccalaureate, Cambridge IGCSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 21800000, 71700000; Since: 2001; Strength: Not Available",
+        "Name: Academic Heights Public School; Category: Public Schools; Location: Ahps Beeramguda, Survey no 78 to 102, Opp to Praneeth Pranav Homes Patelguda, Kistareddypet, Ameenpur, Mandal, Sangareddy, Telangana 502032; Faculty: D. PARIMALA Principal / M.C.A., M.A., B.Ed.; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Gymnastics, Table-tennis, Tennis, Volleyball; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, International Baccalaureate; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 45000, 65000; Since: 2017; Strength: Not Available"
+    ],
+    "response": "In Hyderabad, Solitaire Global Schools, Oakridge International School, and Academic Heights Public School offer the International Baccalaureate curriculum and provide access to laboratories among their amenities, with different sports and fee structures."
+},       {
+    "query": "State board schools with Yoga",
+    "search_results": [
+        "Name: Sreenidhi Global School; Category: Public Schools; Location: Padmanagar, 49-416/2/2/1, Phase 2, Chinthal, Quthbullapur, Hyderabad, Telangana 500054, India; Faculty: ; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Karate, Skating, Swimming, Table-tennis, Tennis, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: -1; Since: Not Available; Strength: Not Available",
+        "Name: St Ann's High School; Category: Public Schools; Location: 12-5-3/1, Tarnaka Main Rd, Doctor ZMES Society, Vijayapuri Colony, Mettuguda, Secunderabad, Telangana 500017; Faculty: ; Sports: Athletics, Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Karate, Kho-Kho, Lawn Tennis, Tennis, Throwball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 10000, 50000; Since: 1871; Strength: Not Available",
+        "Name: Sri Chaitanya School; Category: Public Schools; Location: St.Anns Road, Piller No:19, Santosh Nagar, Santosh Nagar, Mehdipatnam, Hyderabad, Telangana 500028, India; Faculty: ; Sports: Carroms, Chess, Throwball, Volleyball, Yoga; Amenities: Transport, Laboratory, Smart Classrooms, Computers Facility, Library; Board: State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: -1; Since: Not Available; Strength: Not Available"
+    ],
+    "response": "In Hyderabad, Sreenidhi Global School, St Ann's High School, and Sri Chaitanya School are notable state board schools that offer yoga among their sports activities."
+},
+{
+    "query": "International Baccalaureate board schools with Medical Facility",
+    "search_results": [
+        "Name: Solitaire Global Schools; Category: International Schools, Public Schools; Location: Sri Sai Janachithanya Colony, Golden Heights Colony, Upparpally, Hyderabad, Telangana 500030, India; Faculty: Mrs. Manjula Kasturi Principal; Sports: Basketball, Carroms, Chess, Cricket, Football, Skating, Swimming, Taekwondo; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: Cambridge IGCSE, International Baccalaureate; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: -1; Since: 2017; Strength: Not Available",
+        "Name: Oakridge International School; Category: International Schools; Location: Bowrampet, Near Bachupally, Hyderabad 500 043, Telangana, India; Faculty: Ms. Baljeet Oberoi Principal / Masters in Mathematics; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Hockey, Ice-Hockey, Karate, Lawn Tennis, Skating, Swimming, Tennis, Throwball, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, International Baccalaureate, Cambridge IGCSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 21800000, 71700000; Since: 2001; Strength: Not Available",
+        "Name: Academic Heights Public School; Category: Public Schools; Location: Ahps Beeramguda, Survey no 78 to 102, Opp to Praneeth Pranav Homes Patelguda, Kistareddypet, Ameenpur, Mandal, Sangareddy, Telangana 502032; Faculty: D. PARIMALA Principal / M.C.A., M.A.,B.Ed.; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Gymnastics, Table-tennis, Tennis, Volleyball; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, International Baccalaureate; Years: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 45000, 65000; Since: 2017; Strength: Not Available"
+    ],
+    "response": "In Hyderabad, Solitaire Global Schools, Oakridge International School, and Academic Heights Public School provide International Baccalaureate education along with medical facilities."
+},
+{
+    "query": "State board schools with Medical Facility",
+    "search_results": [
+        "Name: Sreenidhi Global School; Category: Public Schools; Location: Padmanagar, 49-416/2/2/1, Phase 2, Chinthal, Quthbullapur, Hyderabad, Telangana 500054, India; Faculty: ; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Karate, Skating, Swimming, Table-tennis, Tennis, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: -1; Since: Not Available; Strength: Not Available",
+        "Name: St Ann's High School; Category: Public Schools; Location: 12-5-3/1, Tarnaka Main Rd, Doctor ZMES Society, Vijayapuri Colony, Mettuguda, Secunderabad, Telangana 500017; Faculty: ; Sports: Athletics, Basketball, Carroms, Chess, Cricket, Football, Hockey, Kabaddi, Karate, Kho-Kho, Lawn Tennis, Tennis, Throwball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: State Board; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 10000, 50000; Since: 1871; Strength: Not Available",
+        "Name: The Creek Planet School, Mercury Campus; Category: Public Schools; Location: Sy. No.437 & 438, Miyapur - Medchal Highway, Bowrampet, Qutbhullapur Mandal. Hyderabad - 500 043. Telangana, India; Faculty: Mrs. Anupama Devi B Principal; Sports: Athletics, Basketball, Cricket, Tennis, Volleyball; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, State Board; Years: 5, 6, 7, 8, 9, 10; Fee: 79000, 120000; Since: 2008; Strength: Not Available"
+    ],
+    "response": "In Hyderabad, Sreenidhi Global School, St Ann's High School, and The Creek Planet School offer state board education with medical facilities available."
+},{
+    "query": "CBSE board schools with Handball",
+    "search_results": [
+        "Name: Indus Universal School; Category: International Schools; Location: Near Tulsi Gardens, JJ Nagar Colony(PO), Yapral, Sainikpuri, Shivaji Nagar, Sainikpuri, Secunderabad, Telangana 500087, India; Faculty: ; Sports: Athletics, Badminton, Basketball, Cricket, Football, Gymnastics, Handball, Hockey, Kabaddi, Kho-Kho, Swimming, Table-tennis, Tennis, Volleyball; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: -1; Since: 2006; Strength: Not Available",
+        "Name: Sanskriti The School; Category: Public Schools; Location: Kothapet Fruit Market\r\nSaroornagar Road, Dilsukhnagar\r\nHyderabad - 500035; Faculty: Mrs. S. Swati Principal / M.A., M.Ed Mr. Vikranth Terala Director / M.B.A.; Sports: Carroms, Chess, Cricket, Football, Handball; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: -1; Since: 2009; Strength: Not Available",
+        "Name: Kendriya Vidyalaya; Category: Public Schools; Location: GPRA Campus Rd, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032; Faculty: Mr. E KrishnaMurthy Principal / M.Sc, B.Ed; Sports: Athletics, Badminton, Carroms, Chess, Cricket, Football, Handball, Hockey, Kabaddi, Swimming, Throwball; Amenities: Transport, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 50000, 125000; Since: 1987; Strength: Not Available"
+    ],
+    "response": "In Hyderabad, Indus Universal School, Sanskriti The School, and Kendriya Vidyalaya offer CBSE education with handball as a sport."
+}
+,{
+    "query": "Cambridge IGCSE board schools with Ice-Hockey",
+    "search_results": [
+        "Name: Oakridge International School; Category: International Schools; Location: Bowrampet, Near Bachupally, Hyderabad  500 043, Telangana, India; Faculty: Ms. Baljeet Oberoi Principal / Masters in Mathematics; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Hockey, Ice-Hockey, Karate, Lawn Tennis, Skating, Swimming, Tennis, Throwball, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, International Baccalaureate, Cambridge IGCSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 21800000, 71700000; Since: 2001; Strength: Not Available"
+    ],
+    "response": "In Hyderabad, Oakridge International School offers Cambridge IGCSE education with ice-hockey as a sport."
+},{
+    "query": "Cambridge IGCSE board schools with Athletics",
+    "search_results": [
+        "Name: New York Academy Progressive American International School; Category: International Schools, Play Schools; Location: 774/B, Rd Number 39, CBI Colony, Jubilee Hills, Hyderabad, Telangana 500033, India; Faculty: Mr. Brian Kissman Head of the School Ms. Umme Salma Principal / M.Ed. Educational Leadership, Director Certificati; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Karate, Skating, Swimming; Amenities: Transport, Smart Classrooms, Computers Facility, Library; Board: CBSE, Cambridge IGCSE, Other Boards; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 100000, 490000; Since: 2016; Strength: 128",
+        "Name: Meru International School; Category: International Schools; Location: Sy. No. 97(P) & 98, adjacent to My Home Jewel, Madinaguda, Chanda Nagar, Hyderabad, Telangana 500049, India; Faculty: Ms. MEGHANA RAO JUPALLY DIRECTOR, MERU INTERNATIONAL SCHOOL / N/A; Sports: Athletics, Badminton, Basketball, Carroms, Cricket, Football, Gymnastics, Kabaddi, Karate, Table-tennis, Tennis, Volleyball; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, Cambridge IGCSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 2100000, 2800000; Since: 2018; Strength: Not Available",
+        "Name: Oakridge International School; Category: International Schools; Location: Bowrampet, Near Bachupally, Hyderabad  500 043, Telangana, India; Faculty: Ms. Baljeet Oberoi Principal / Masters in Mathematics; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Hockey, Ice-Hockey, Karate, Lawn Tennis, Skating, Swimming, Tennis, Throwball, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, International Baccalaureate, Cambridge IGCSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 21800000, 71700000; Since: 2001; Strength: Not Available"
+    ],
+    "response": "In Hyderabad, New York Academy Progressive American International School, Meru International School, and Oakridge International School offer Cambridge IGCSE education with athletics as a sport."
+}
+,{
+    "query": "Cambridge IGCSE board schools with Athletics",
+    "search_results": [
+        "Name: New York Academy Progressive American International School; Category: International Schools, Play Schools; Location: 774/B, Rd Number 39, CBI Colony, Jubilee Hills, Hyderabad, Telangana 500033, India; Faculty: Mr. Brian Kissman Head of the School Ms. Umme Salma Principal / M.Ed. Educational Leadership, Director Certificati; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Karate, Skating, Swimming; Amenities: Transport, Smart Classrooms, Computers Facility, Library; Board: CBSE, Cambridge IGCSE, Other Boards; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; Fee: 100000, 490000; Since: 2016; Strength: 128",
+        "Name: Meru International School; Category: International Schools; Location: Sy. No. 97(P) & 98, adjacent to My Home Jewel, Madinaguda, Chanda Nagar, Hyderabad, Telangana 500049, India; Faculty: Ms. MEGHANA RAO JUPALLY DIRECTOR, MERU INTERNATIONAL SCHOOL / N/A; Sports: Athletics, Badminton, Basketball, Carroms, Cricket, Football, Gymnastics, Kabaddi, Karate, Table-tennis, Tennis, Volleyball; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, Cambridge IGCSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 2100000, 2800000; Since: 2018; Strength: Not Available",
+        "Name: Oakridge International School; Category: International Schools; Location: Bowrampet, Near Bachupally, Hyderabad  500 043, Telangana, India; Faculty: Ms. Baljeet Oberoi Principal / Masters in Mathematics; Sports: Athletics, Badminton, Basketball, Carroms, Chess, Cricket, Football, Gymnastics, Hockey, Ice-Hockey, Karate, Lawn Tennis, Skating, Swimming, Tennis, Throwball, Volleyball, Yoga; Amenities: Transport, Medical Facility, Laboratory, Smart Classrooms, Computers Facility, Library; Board: CBSE, International Baccalaureate, Cambridge IGCSE; Years: -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; Fee: 21800000, 71700000; Since: 2001; Strength: Not Available"
+    ],
+    "response": "In Hyderabad, New York Academy Progressive American International School, Meru International School, and Oakridge International School offer Cambridge IGCSE education with athletics as a sport."
+},
+    {
+        "query": "What is the weather like today?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How do I bake a cake?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "Can you tell me a joke?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What’s the best movie to watch?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How do I fix my computer?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What is the meaning of life?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How can I learn to play guitar?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What are some good travel destinations?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How do I start a garden?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What is quantum physics?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How to meditate effectively?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What’s the latest technology trend?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How to improve my cooking skills?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What is the stock market?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How to play chess?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What’s the best way to exercise?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How to write a novel?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What are the benefits of yoga?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How do I improve my resume?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What is the best way to save money?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How to take better photographs?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What is artificial intelligence?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How do I start a blog?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What are some fun hobbies?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What is the history of the internet?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How to manage stress?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What’s the best way to learn a language?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What is blockchain technology?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "How to start a podcast?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+    {
+        "query": "What are some tips for public speaking?",
+        "search_results": "Not Available",
+        "response": "Please enter a relevant query related to education or schools."
+    },
+        {
+            "query": "Hello!",
+            "search_results": "Not Available",
+            "response": "Hi there! How can I assist you today?"
+        },
+        {
+            "query": "Good morning!",
+            "search_results": "Not Available",
+            "response": "Good morning! Hope you have a fantastic day ahead!"
+        },
+        {
+            "query": "Good afternoon!",
+            "search_results": "Not Available",
+            "response": "Good afternoon! How's your day going?"
+        },
+        {
+            "query": "Good evening!",
+            "search_results": "Not Available",
+            "response": "Good evening! How can I help you tonight?"
+        },
+        {
+            "query": "Hey there!",
+            "search_results": "Not Available",
+            "response": "Hey! What’s on your mind?"
+        },
+        {
+            "query": "Hi!",
+            "search_results": "Not Available",
+            "response": "Hello! What can I do for you?"
+        },
+        {
+            "query": "What's up?",
+            "search_results": "Not Available",
+            "response": "Not much! How about you?"
+        },
+        {
+            "query": "Howdy!",
+            "search_results": "Not Available",
+            "response": "Howdy! What brings you here today?"
+        },
+        {
+            "query": "Greetings!",
+            "search_results": "Not Available",
+            "response": "Greetings! How may I assist you?"
+        },
+        {
+            "query": "Salutations!",
+            "search_results": "Not Available",
+            "response": "Salutations! What can I help you with?"
+        },
+        {
+            "query": "Yo!",
+            "search_results": "Not Available",
+            "response": "Yo! What's happening?"
+        },
+        {
+            "query": "What's going on?",
+            "search_results": "Not Available",
+            "response": "Not much! Just here to help you."
+        },
+        {
+            "query": "Good to see you!",
+            "search_results": "Not Available",
+            "response": "Good to see you too! How can I help?"
+        },
+        {
+            "query": "Long time no see!",
+            "search_results": "Not Available",
+            "response": "It’s great to see you again! What’s new?"
+        },
+        {
+            "query": "Hi there, friend!",
+            "search_results": "Not Available",
+            "response": "Hi, friend! How’s everything?"
+        },
+        {
+            "query": "Hello, everyone!",
+            "search_results": "Not Available",
+            "response": "Hello! What’s on your agenda today?"
+        },
+        {
+            "query": "What's new?",
+            "search_results": "Not Available",
+            "response": "Not much! Just here to assist you."
+        },
+        {
+            "query": "Welcome!",
+            "search_results": "Not Available",
+            "response": "Thank you! How can I assist you today?"
+        },
+        {
+            "query": "Nice to meet you!",
+            "search_results": "Not Available",
+            "response": "Nice to meet you too! How can I help?"
+        },
+        {
+            "query": "Pleasure to see you!",
+            "search_results": "Not Available",
+            "response": "The pleasure is mine! How can I assist?"
+        },
+        {
+            "query": "How's it going?",
+            "search_results": "Not Available",
+            "response": "It's going well! How about you?"
+        },
+        {
+            "query": "What’s cooking?",
+            "search_results": "Not Available",
+            "response": "Just cooking up some helpful responses! What do you need?"
+        },
+        {
+            "query": "What’s crackin'?",
+            "search_results": "Not Available",
+            "response": "Not much! Just ready to assist you."
+        },
+        {
+            "query": "Hey buddy!",
+            "search_results": "Not Available",
+            "response": "Hey there, buddy! What’s on your mind?"
+        },
+        {
+            "query": "How are you?",
+            "search_results": "Not Available",
+            "response": "I'm just a program, but I'm here to help you!"
+        },
+        {
+            "query": "How’s life?",
+            "search_results": "Not Available",
+            "response": "Life is good! What about you?"
+        },
+        {
+            "query": "What’s up, doc?",
+            "search_results": "Not Available",
+            "response": "Not much! Just here to help you out."
+        },
+        {
+            "query": "Hello, my friend!",
+            "search_results": "Not Available",
+            "response": "Hello! What can I do for you today?"
+        },
+        {
+            "query": "Good day!",
+            "search_results": "Not Available",
+            "response": "Good day! How can I assist you?"
+        },
+        {
+            "query": "Cheers!",
+            "search_results": "Not Available",
+            "response": "Cheers! What do you need help with?"
+        },
+        {
+            "query": "Aloha!",
+            "search_results": "Not Available",
+            "response": "Aloha! How can I help you today?"
+        },
+        {
+            "query": "What’s the scoop?",
+            "search_results": "Not Available",
+            "response": "Not much! Just waiting to help you."
+        },
+        {
+            "query": "What's the good word?",
+            "search_results": "Not Available",
+            "response": "The good word is that I'm here to assist you!"
+        },
+        {
+            "query": "Hey there, sunshine!",
+            "search_results": "Not Available",
+            "response": "Hey! Ready to brighten your day!"
+        }
+        
+
+
+
+     
+    ]
