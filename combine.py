@@ -26,7 +26,8 @@ def preprocess(json_data):
     return json_data
 
 # Path to the folder containing the JSON files
-folder_path = 'F:\Chat_Proj\Project Files\preprocessed_data_bangalore'
+folder_path = 'files_for_chatbot\hyd_files'
+
 
 # List to store all dictionaries from the JSON files
 combined_json = []
@@ -57,7 +58,9 @@ for id_no, item in enumerate(unique_combined_json, start=1):
     item["Id"] = id_no
 
 # Save the merged JSON data without duplicates into a new file
-output_file = os.path.join('F:\\Chat_Proj\\Project Files\\combining and automation', 'cleaned_and_combined_blore.json')
+output_file = os.path.join('files_for_chatbot\combined files', 'cleaned_and_combined_hyd.json')
+
+
 with open(output_file, 'w') as outfile:
     json.dump(unique_combined_json, outfile, indent=4)
 
