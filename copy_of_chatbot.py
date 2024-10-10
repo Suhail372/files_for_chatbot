@@ -220,17 +220,20 @@ st.title("School Information Chatbot")
 st.sidebar.title("Choices sidebar")
 choice = st.sidebar.radio("Choose location:", ("Hyderabad", "Bangalore"))
 st.sidebar.write(f"Current location: {choice}")
-location_is_hyd = choice == "Hyderabad"
+if choice=="Hyderabad":
+    location=True
+else:
+    location=False
 
 # Initialize the chatbot once and store it in session state
 if "chatbot" not in st.session_state:
     # Create a new Chatbot instance if it doesn't exist
-    st.session_state.chatbot = Chatbot(location_is_hyd)
+    st.session_state.chatbot = Chatbot(location)
 else:
     # Check if the location has changed
-    if st.session_state.chatbot.location_is_hyd != location_is_hyd:
+    if st.session_state.chatbot.location_is_hyd !=location:
         # Update the chatbot instance with the new location
-        st.session_state.chatbot.location_is_hyd=~(st.session_state.chatbot.location_is_hyd)
+        st.session_state.chatbot.location_is_hyd=location
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
