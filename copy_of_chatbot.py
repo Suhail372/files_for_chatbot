@@ -230,7 +230,7 @@ else:
     # Check if the location has changed
     if st.session_state.chatbot.location_is_hyd != location_is_hyd:
         # Update the chatbot instance with the new location
-        st.session_state.chatbot.location_is_hyd=False if choice !="Bangalore" else True
+        st.session_state.chatbot.location_is_hyd=~(st.session_state.chatbot.location_is_hyd)
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -247,11 +247,11 @@ if prompt:
 
     chatbot = st.session_state.chatbot
     user_history = st.session_state.get("history", "")
-    response = chatbot.process_query(prompt, user_history)
-    st.session_state.history = user_history + f"\n{prompt}"
+    
 
     with st.spinner("Generating response..."):
-        time.sleep(2)  # Simulate longer processing time
-        with st.chat_message("assistant"):
-            st.markdown(response)
+        response = chatbot.process_query(prompt, user_history)
+        st.session_state.history = user_history + f"\n{prompt}"  # Simulate longer processing time
+    with st.chat_message("assistant"):
+        st.markdown(response)
     st.session_state.messages.append({"role": "assistant", "content": response})
