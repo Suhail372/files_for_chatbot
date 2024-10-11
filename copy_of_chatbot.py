@@ -187,7 +187,44 @@ class LLMHandler:
         result_prompt = self.llama_tokenizer.decode(outputs[0])
         return result_prompt.replace(input_prompt, "").strip()
 
-    def get_not_school_related_response(self):
+    def get_not_school_related_response(self,query):
+        greetings_responses = {
+            "Hi, how are you?": "I'm good, thank you! How can I help you today?",
+            "Hello!": "Hello! How can I help you today?",
+            "Good morning!": "Good morning! How can I help you today?",
+            "Good afternoon!": "Good afternoon! How can I help you today?",
+            "Good evening!": "Good evening! How can I help you today?",
+            "Hey! What's up?": "Hey! Not much, how about you? How can I help you today?",
+            "Howdy!": "Howdy! How can I help you today?",
+            "What's new?": "Not much, just here to help. How can I assist you today?",
+            "How's it going?": "It's going well, thank you! How can I help you today?",
+            "How are things?": "Things are great, thanks! How can I help you today?",
+            "Long time no see!": "Yes, it's been a while! How can I help you today?",
+            "Nice to see you!": "Nice to see you too! How can I help you today?",
+            "What's happening?": "Not much, just here to help. How can I assist you today?",
+            "What's going on?": "Just doing my thing! How can I help you today?",
+            "How have you been?": "I've been well, thank you! How can I help you today?",
+            "What’s the latest?": "Not much, just here to assist. How can I help you today?",
+            "How’s everything?": "Everything's good, thank you! How can I help you today?",
+            "How's your day going?": "It's going well, thanks! How can I help you today?",
+            "How's life?": "Life's good, thank you! How can I help you today?",
+            "How do you do?": "I'm doing well, thank you! How can I help you today?",
+            "Yo!": "Yo! How can I help you today?",
+            "Sup?": "Not much, you? How can I help you today?",
+            "Greetings!": "Greetings! How can I help you today?",
+            "Salutations!": "Salutations! How can I help you today?",
+            "How are you doing?": "I'm doing well, thank you! How can I help you today?",
+            "What’s up?": "Not much, just here to help. How can I assist you today?",
+            "Pleasure to meet you!": "Pleasure to meet you too! How can I help you today?",
+            "How's everything going?": "Everything's going well, thank you! How can I help you today?",
+            "How's your day been?": "It's been good, thanks! How can I help you today?",
+            "How's your week going?": "It's going well, thank you! How can I help you today?",
+            "How have things been?": "Things have been good, thanks! How can I help you today?"
+        }
+
+        if query in greetings_responses:
+            return greetings_responses[query]
+        
         not_school_related_responses = [
             "I'm sorry, but I can only provide information related to schools. How can I assist you with a school-related query today?",
             "It looks like your question isn't related to schools. Could you please ask something about schools so I can help you better?",
@@ -212,7 +249,7 @@ class Chatbot(VectorSearchWrapper, LLMHandler):
             chat_response = self.generate_chat_response(user_query, formatted_results)
             return chat_response
         else:
-            return self.get_not_school_related_response()
+            return self.get_not_school_related_response(user_query)
 
 # Streamlit app
 st.title("School Information Chatbot")
