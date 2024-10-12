@@ -248,7 +248,7 @@ class LLMHandler:
 
         cleaned_string = re.sub(r'[^a-zA-Z0-9]', '', query).lower()
         if cleaned_string in greetings_responses:
-            return greetings_responses[query]
+            return greetings_responses[cleaned_string]
         
         not_school_related_responses = [
             "I'm sorry, but I can only provide information related to schools. How can I assist you with a school-related query today?",
