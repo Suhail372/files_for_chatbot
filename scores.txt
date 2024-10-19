@@ -1,2 +1,0 @@
-all-miniLM-L6-V2,ivf_flat: 1236 2157 665 (1131)
-mpnet-base-v2,ivf_flat: 916 2477 488 (1131)
