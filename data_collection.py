@@ -13,7 +13,6 @@ import json
 @dataclass
 class Business:
     """holds business data"""
-
     name: str = None
     address: str = None
     website: str = None
@@ -54,18 +53,18 @@ def getlinks(url):
     if response and response.status_code == 200:
         # Parse the HTML content
         soup = BeautifulSoup(response.content, 'html.parser')
+        
 
         # Find all h3 elements with class 'card-title'
-        card_titles = soup.find_all('h3', class_='card-title')
+        card_titles = soup.find_all('h2', class_='card-title')
 
         # Extract hrefs from the links within each h3 element
         hrefs = [title.find('a')['href'] for title in card_titles]
         names = [name.text.strip() for name in card_titles]
-
-        return hrefs, names
+        return hrefs,names
     else:
         print("Failed to fetch page:", url)
-        return []
+        return [],[]
 
 
 def navigate_all_pages(baseurl):
@@ -76,14 +75,15 @@ def navigate_all_pages(baseurl):
     while True:
         page_url = f"{baseurl}?page={page_number}"
         hrefs, names = getlinks(page_url)
-
+        
         # If no hrefs found, it might indicate end of pagination
         if not hrefs:
-            break
+            return all_hrefs, all_names
 
         all_hrefs.extend(hrefs)
         all_names.extend(names)
         page_number += 1
+    
 
     return all_hrefs, all_names
 
@@ -200,6 +200,7 @@ def main():
     
     base = "https://yellowslate.com/schools/hyderabad/gachibowli"
     links, names = navigate_all_pages(base)
+    print(links)
     all_data_json = []
     all_data_csv=[]
     print("DOne this")
